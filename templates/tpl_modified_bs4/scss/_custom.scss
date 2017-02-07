@@ -1,0 +1,118 @@
+// Bootstrap overrides
+//
+// Copy variables from `_variables.scss` to this file to override default values
+// without modifying source files.
+
+.navbarContent {
+	background-color: #939393 !important;
+	
+	ul {
+		li {
+			a {
+				color: #ffffff !important;
+				
+				&:hover {
+					color: #6d2551 !important;
+				}
+			}
+		}
+	}
+	
+	.toggle_cart {
+		display: none;
+	}
+}
+
+	
+
+// Boxen
+.box1 {
+	margin-bottom: 20px;
+	background-color: #d7d7d7;
+	border: 1px solid #bbbbbb;
+	padding: 0px 10px 10px 10px;
+	
+	.box_header {
+		font-family: 'fjallaoneregular', sans-serif;
+		font-size: 16px;
+		color: #434343;
+		font-size: 16px;
+		height: 40px;
+		line-height: 40px;
+		border-bottom: 1px solid #eeeeee;
+		position: relative;
+		
+		&::after {
+			content: '';
+			border-top: 1px solid #989898;
+			position: absolute;
+			bottom: 0px;
+			left: 0;
+			right: 0;
+		}
+	}
+}
+
+	
+
+.box_category {
+	background-color: #434343;
+    border-bottom: 1px solid #1d1d1d;
+    margin-bottom: 20px;
+    
+    .box_category_header {
+	    font-family: 'fjallaoneregular', sans-serif;
+	    color: #fefefe;
+	    font-size: 16px;
+	    height: 40px;
+	    line-height: 40px;
+	    margin: 0px 10px;
+	    border-bottom: 1px solid #5e5e5e;
+	    position: relative;
+	    
+	    &::after {
+			content: '';
+			border-top: 1px solid #1d1d1d;
+			position: absolute;
+			bottom: 0px;
+			left: 0;
+			right: 0;
+		}
+	}
+	
+	ul {
+		margin: 0;
+		padding: 0;
+		list-style: none;
+		
+		li {
+			a {
+				outline: none;
+				display: block;
+				text-decoration: none;
+			}
+			
+			&.level1 {
+				a {
+					color: #fff;
+				    font-size: 15px;
+				    padding: 8px 10px 8px 10px;
+				    background: #434343;
+				    border-bottom: 1px dotted #656565;
+				    
+				    &:hover {
+					    color: #fff;
+						background: #7b3c62
+				    }
+			    }
+			}
+		}
+	}
+}
+
+h1 {
+	border-bottom: 1px solid #ddd;
+	margin-top: 1rem !important;
+	margin-bottom: 0.75rem !important;
+	color: #444;
+}

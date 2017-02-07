@@ -1,0 +1,5 @@
+[02-02-2017 19:06:32] E_ERROR	: LoggingManager: Class 'Leafo\ScssPhp\Compiler' not found in File: /Users/danielsiekiera/Websites/modified-bs4/templates/tpl_modified_bs4/css/general.css.php on Line: 45
+[02-02-2017 19:06:42] E_ERROR	: LoggingManager: Class 'Leafo\ScssPhp\Compiler' not found in File: /Users/danielsiekiera/Websites/modified-bs4/templates/tpl_modified_bs4/css/general.css.php on Line: 45
+[02-02-2017 19:07:50] E_ERROR	: LoggingManager: Class 'Leafo\ScssPhp\Compiler' not found in File: /Users/danielsiekiera/Websites/modified-bs4/templates/tpl_modified_bs4/css/general.css.php on Line: 47
+[02-02-2017 19:15:22] E_ERROR	: LoggingManager: Class 'Leafo\ScssPhp\Compiler' not found in File: /Users/danielsiekiera/Websites/modified-bs4/templates/tpl_modified_bs4/css/general.css.php on Line: 47
+[02-02-2017 19:17:51] E_ERROR	: LoggingManager: Class 'Leafo\ScssPhp\Compiler' not found in File: /Users/danielsiekiera/Websites/modified-bs4/templates/tpl_modified_bs4/css/general.css.php on Line: 47
