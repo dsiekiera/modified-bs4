@@ -6,7 +6,6 @@
  */
 
 // Core variables and mixins
-@import "custom";
 @import "variables";
 @import "mixins";
 
@@ -51,3 +50,6 @@
 
 // Utility classes
 @import "utilities";
+
+// Global Template Customs
+@import "custom";

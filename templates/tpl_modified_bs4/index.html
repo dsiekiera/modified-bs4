@@ -1,20 +1,25 @@
 {config_load file="$language/lang_$language.conf" section="index"}
 {config_load file="lang_`$language`.custom"}
 {strip}
-	{if isset($box_ADMIN)}<div class="adminspacer"></div>{$box_ADMIN}{/if}
+	{if isset($box_ADMIN)}{$box_ADMIN}{/if}
 
 	<nav class="navbar navbar-toggleable-md navbar-light bg-faded">
 		<div class="container">
+
 			<button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarHeader" aria-controls="navbarHeader" aria-expanded="false" aria-label="Toggle navigation">
 				<span class="navbar-toggler-icon"></span>
 			</button>
-			
+
+			<span class="navbar-brand w-50">
+				<a title="{#link_index#} &bull; {$store_name}" href="{$index}">
+					<img class="img-fluid" src="{$smarty.const.HTTP_SERVER}{$smarty.const.DIR_WS_CATALOG}templates/tpl_modified_bs4/img/logo_head.png" alt="{#link_index#} &bull; {$store_name}">
+				</a>
+				{if isset($box_LANGUAGES) && $box_LANGUAGES != ''}<span class="languages">{$box_LANGUAGES}</span>{/if}
+			</span>
+
 			<div class="collapse navbar-collapse flex-column" id="navbarHeader">
-				<div class="row">
-					<span class="col navbar-text">
-						{if isset($box_LANGUAGES) && $box_LANGUAGES != ''}<div id="languages">{$box_LANGUAGES}</div>{/if}
-					</span>
-					<ul class="col navbar-nav ml-auto">
+				<div class="d-flex flex-wrap">
+					<ul class="navbar-nav justify-content-end w-100">
 						{if isset($account)}
 							<li class="nav-item"><a class="nav-link" href="{$account}">{#link_account#}</a></li>
 						{/if}
@@ -25,18 +30,10 @@
 							<li class="nav-item"><a class="nav-link" href="{$login}">{#link_login#}</a></li>
 						{/if}
 					</ul>
-				</div>
-				<div class="row">
-					<div class="col-8 col-md-18">
-						<a class="navbar-brand" title="{#link_index#} &bull; {$store_name}" href="{$index}">
-							<img class="img-fluid" src="{$smarty.const.HTTP_SERVER}{$smarty.const.DIR_WS_CATALOG}templates/tpl_modified_bs4/img/logo_head.png" alt="{#link_index#} &bull; {$store_name}">
-						</a>
-					</div>
-					<div class="col-16 col-md-6">
-						{if isset($box_SEARCH)}{$box_SEARCH}{/if}
-					</div>
+					{if isset($box_SEARCH)}{$box_SEARCH}{/if}
 				</div>
 			</div>
+			
 		</div>
 	</nav>
 
@@ -46,16 +43,23 @@
 			{if isset($home) && $home == true}
 				<div class="col-md-18 push-md-6">
 					<div class="navbar navbar-toggleable-md navbar-light bg-faded navbarContent" role="navigation">
-						<div class="collapse navbar-collapse d-flex justify-content-end" id="navbarContent">
-							<ul class="navbar-nav mr-auto"> 
-								<li class="nav-item"><a class="nav-link" href="{$smarty.const.FILENAME_CONTENT|xtc_href_link:'coID=7'}">{#link_contact#}</a></li>
-								<li class="nav-item"><a class="nav-link" href="{$smarty.const.FILENAME_CONTENT|xtc_href_link:'coID=4'}">{#link_imprint#}</a></li>
-								<li class="nav-item"><a class="nav-link" href="{$checkout}">{#link_checkout#}</a></li>
+						<div class="collapse navbar-collapse" id="navbarContent">
+							<ul class="navbar-nav d-flex w-100 justify-content-start"> 
+								<li class="nav-item">
+									<a class="nav-link" href="{$smarty.const.FILENAME_CONTENT|xtc_href_link:'coID=7'}">{#link_contact#}</a>
+								</li>
+								<li class="nav-item">
+									<a class="nav-link" href="{$smarty.const.FILENAME_CONTENT|xtc_href_link:'coID=4'}">{#link_imprint#}</a>
+								</li>
+								<li class="nav-item">
+									<a class="nav-link" href="{$checkout}">{#link_checkout#}</a>
+								</li>
+								{if isset($box_CART)}{$box_CART}{/if}
+								{if isset($box_WISHLIST)}{$box_WISHLIST}{/if}
 							</ul>
-							{if isset($box_CART)}{$box_CART}{/if}
-							{if isset($box_WISHLIST)}{$box_WISHLIST}{/if}
 						</div>
 					</div>
+
 					{if isset($SLIDER)}
 						<div class="content_banner">
 							<ul class="bxcarousel_slider">
@@ -65,13 +69,22 @@
 							</ul>
 						</div>
 					{/if}
-					{if isset($BANNER)}<div class="content_banner">{$BANNER}</div>{/if}
+
+					{if isset($BANNER)}
+						<div class="content_banner">{$BANNER}</div>
+					{/if}
+
 					{if isset($main_content)}
 						{$main_content}
 					{/if}
-					{if isset($box_BESTSELLERS)}{$box_BESTSELLERS}{/if}
+
+					{if isset($box_BESTSELLERS)}
+						{$box_BESTSELLERS}
+					{/if}
 				</div>
+
 				{* ENDE col_right *}
+
 				<div class="col-md-6 pull-md-18">
 					{if isset($box_CATEGORIES)}{$box_CATEGORIES}{/if}
 					{if isset($box_ADD_QUICKIE)}{$box_ADD_QUICKIE}{/if}
@@ -86,22 +99,29 @@
 					{if isset($box_HISTORY)}{$box_HISTORY}{/if}
 					{if isset($box_TRUSTEDSHOPS)}{$box_TRUSTEDSHOPS}{/if}
 				</div>
+
 				{* ENDE col_left *}
+
 			{elseif isset($fullcontent) && $fullcontent == true}
 				<div class="col-md-24">
 					<div class="navbar navbar-toggleable-md navbar-light bg-faded navbarContent" role="navigation">
-						<div class="collapse navbar-collapse d-flex justify-content-end" id="navbarContent">
-							<ul class="navbar-nav mr-auto">
-								<li class="nav-item"><a class="nav-link" href="{$index}">{#link_index#}</a></li>
-								<li class="nav-item"><a class="nav-link" href="{$smarty.const.FILENAME_CONTENT|xtc_href_link:'coID=7'}">{#link_contact#}</a></li>
-								<li class="nav-item"><a class="nav-link" href="{$smarty.const.FILENAME_CONTENT|xtc_href_link:'coID=4'}">{#link_imprint#}</a></li>
-								<li class="nav-item"><a class="nav-link" href="{$checkout}">{#link_checkout#}</a></li>
+						<div class="collapse navbar-collapse" id="navbarContent">
+							<ul class="navbar-nav d-flex w-100 justify-content-start"> 
+								<li class="nav-item">
+									<a class="nav-link" href="{$smarty.const.FILENAME_CONTENT|xtc_href_link:'coID=7'}">{#link_contact#}</a>
+								</li>
+								<li class="nav-item">
+									<a class="nav-link" href="{$smarty.const.FILENAME_CONTENT|xtc_href_link:'coID=4'}">{#link_imprint#}</a>
+								</li>
+								<li class="nav-item">
+									<a class="nav-link" href="{$checkout}">{#link_checkout#}</a>
+								</li>
+								{if isset($box_CART)}{$box_CART}{/if}
+								{if isset($box_WISHLIST)}{$box_WISHLIST}{/if}
 							</ul>
-							{if isset($box_CART)}{$box_CART}{/if}
-							{if isset($box_WISHLIST)}{$box_WISHLIST}{/if}
 						</div>
 					</div>
-					{if isset($navtrail)}<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumb">{$navtrail}</ol>{/if}
+					{if isset($navtrail)}{$navtrail}{/if}
 					{if isset($main_content)}{$main_content}{/if}
 					{if $bestseller}
 						{if isset($box_BESTSELLERS)}{$box_BESTSELLERS}{/if}
@@ -112,17 +132,23 @@
 			
 				<div class="col-md-18 push-md-6">
 					<div class="navbar navbar-toggleable-md navbar-light bg-faded navbarContent" role="navigation">
-						<div class="collapse navbar-collapse d-flex justify-content-end" id="navbarContent">
-							<ul class="navbar-nav mr-auto"> 
-								<li class="nav-item"><a class="nav-link" href="{$smarty.const.FILENAME_CONTENT|xtc_href_link:'coID=7'}">{#link_contact#}</a></li>
-								<li class="nav-item"><a class="nav-link" href="{$smarty.const.FILENAME_CONTENT|xtc_href_link:'coID=4'}">{#link_imprint#}</a></li>
-								<li class="nav-item"><a class="nav-link" href="{$checkout}">{#link_checkout#}</a></li>
+						<div class="collapse navbar-collapse" id="navbarContent">
+							<ul class="navbar-nav d-flex w-100 justify-content-start"> 
+								<li class="nav-item">
+									<a class="nav-link" href="{$smarty.const.FILENAME_CONTENT|xtc_href_link:'coID=7'}">{#link_contact#}</a>
+								</li>
+								<li class="nav-item">
+									<a class="nav-link" href="{$smarty.const.FILENAME_CONTENT|xtc_href_link:'coID=4'}">{#link_imprint#}</a>
+								</li>
+								<li class="nav-item">
+									<a class="nav-link" href="{$checkout}">{#link_checkout#}</a>
+								</li>
+								{if isset($box_CART)}{$box_CART}{/if}
+								{if isset($box_WISHLIST)}{$box_WISHLIST}{/if}
 							</ul>
-							{if isset($box_CART)}{$box_CART}{/if}
-							{if isset($box_WISHLIST)}{$box_WISHLIST}{/if}
 						</div>
 					</div>
-					{if isset($navtrail)}<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumb">{$navtrail}</ol>{/if}
+					{if isset($navtrail)}{$navtrail}{/if}
 					{if isset($main_content)}{$main_content}{/if}
 					{if $bestseller}{if isset($box_BESTSELLERS)}{$box_BESTSELLERS}{/if}{/if}
 				</div>

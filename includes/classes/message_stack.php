@@ -36,8 +36,8 @@
       $this->messages[$class][$type][] = $message;
     }
 
-    function add_session($class, $message, $type = 'error') {
-      if (!isset($_SESSION['messageToStack'])) {
+    function add_session($class, $message, $type = 'error'){
+      if (!isset($_SESSION['messageToStack'])){
         $_SESSION['messageToStack'] = array();
       }
       $_SESSION['messageToStack'][] = array('class' => $class, 'text' => $message, 'type' => $type);
@@ -59,10 +59,9 @@
       $output = '';
       if ($this->size($class, $type) > 0) {
         foreach ($this->messages[$class][$type] as $message) {
-          $output .= '<p>'.$message.'</p>';
+          $output .= '<div>'.$message.'</div>';
         }
       }
       return $output;
     }
   }
-?>

@@ -1,3 +1,7 @@
 - composer => /includes/application-top.php [require vendor/autoloader.php]
-- xtc_draw_password_field.inc.php
-- xtc_image.inc.php
+- /inc/xtc_draw_password_field.inc.php
+- /inc/xtc_image.inc.php
+- /inc/xtc_image_submit.inc.php
+- /inc/xtc_output_warning.inc.php
+- /inc/xtc_draw_pull_down_menu.inc.php
+- /includes/classes/breadcrump.php

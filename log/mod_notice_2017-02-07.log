@@ -1,0 +1,557 @@
+[07-02-2017 17:50:33] E_NOTICE	: LoggingManager: Undefined index: order_id in File: /Users/danielsiekiera/Websites/modified-bs4/includes/external/smarty/smarty_3/sysplugins/smarty_internal_templatebase.php(157) : eval()'d code on Line: 46
+[07-02-2017 17:50:33] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/includes/external/smarty/smarty_3/sysplugins/smarty_internal_templatebase.php called at Line 188
+[07-02-2017 17:50:33] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/login.php called at Line 233
+[07-02-2017 17:50:33] E_NOTICE	: LoggingManager: Undefined index: review_prod_id in File: /Users/danielsiekiera/Websites/modified-bs4/includes/external/smarty/smarty_3/sysplugins/smarty_internal_templatebase.php(157) : eval()'d code on Line: 48
+[07-02-2017 17:50:33] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/includes/external/smarty/smarty_3/sysplugins/smarty_internal_templatebase.php called at Line 188
+[07-02-2017 17:50:33] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/login.php called at Line 233
+[07-02-2017 17:50:33] E_NOTICE	: LoggingManager: Undefined index: INPUT_CODE in File: /Users/danielsiekiera/Websites/modified-bs4/includes/external/smarty/smarty_3/sysplugins/smarty_internal_templatebase.php(157) : eval()'d code on Line: 57
+[07-02-2017 17:50:33] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/includes/external/smarty/smarty_3/sysplugins/smarty_internal_templatebase.php called at Line 188
+[07-02-2017 17:50:33] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/login.php called at Line 233
+[07-02-2017 17:50:33] E_NOTICE	: LoggingManager: Trying to get property of non-object in File: /Users/danielsiekiera/Websites/modified-bs4/includes/external/smarty/smarty_3/sysplugins/smarty_internal_templatebase.php(157) : eval()'d code on Line: 57
+[07-02-2017 17:50:33] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/includes/external/smarty/smarty_3/sysplugins/smarty_internal_templatebase.php called at Line 188
+[07-02-2017 17:50:33] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/login.php called at Line 233
+[07-02-2017 17:52:28] E_NOTICE	: LoggingManager: Undefined index: order_id in File: /Users/danielsiekiera/Websites/modified-bs4/includes/external/smarty/smarty_3/sysplugins/smarty_internal_templatebase.php(171) : eval()'d code on Line: 46
+[07-02-2017 17:52:28] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/includes/external/smarty/smarty_3/sysplugins/smarty_internal_templatebase.php called at Line 188
+[07-02-2017 17:52:28] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/login.php called at Line 233
+[07-02-2017 17:52:28] E_NOTICE	: LoggingManager: Undefined index: review_prod_id in File: /Users/danielsiekiera/Websites/modified-bs4/includes/external/smarty/smarty_3/sysplugins/smarty_internal_templatebase.php(171) : eval()'d code on Line: 48
+[07-02-2017 17:52:28] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/includes/external/smarty/smarty_3/sysplugins/smarty_internal_templatebase.php called at Line 188
+[07-02-2017 17:52:28] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/login.php called at Line 233
+[07-02-2017 17:53:41] E_NOTICE	: LoggingManager: Constant PROJECT_VERSION already defined in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/version.php on Line: 20
+[07-02-2017 17:53:41] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/inc/check_version_update.inc.php called at Line 20
+[07-02-2017 17:53:41] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/templates/tpl_modified_bs4/source/boxes/admin.php called at Line 52
+[07-02-2017 17:53:41] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/templates/tpl_modified_bs4/source/boxes.php called at Line 103
+[07-02-2017 17:53:41] E_NOTICE	: LoggingManager: Backtrace #3 - /Users/danielsiekiera/Websites/modified-bs4/index.php called at Line 31
+[07-02-2017 18:00:09] E_NOTICE	: LoggingManager: Constant PROJECT_VERSION already defined in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/version.php on Line: 20
+[07-02-2017 18:00:09] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/inc/check_version_update.inc.php called at Line 20
+[07-02-2017 18:00:09] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/templates/tpl_modified_bs4/source/boxes/admin.php called at Line 52
+[07-02-2017 18:00:09] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/templates/tpl_modified_bs4/source/boxes.php called at Line 103
+[07-02-2017 18:00:09] E_NOTICE	: LoggingManager: Backtrace #3 - /Users/danielsiekiera/Websites/modified-bs4/index.php called at Line 31
+[07-02-2017 18:02:00] E_NOTICE	: LoggingManager: Undefined variable: captcha_error in File: /Users/danielsiekiera/Websites/modified-bs4/login.php on Line: 197
+[07-02-2017 18:04:47] E_NOTICE	: LoggingManager: Undefined variable: captcha_error in File: /Users/danielsiekiera/Websites/modified-bs4/login.php on Line: 197
+[07-02-2017 18:08:25] E_NOTICE	: LoggingManager: Undefined variable: captcha_error in File: /Users/danielsiekiera/Websites/modified-bs4/login.php on Line: 197
+[07-02-2017 18:09:14] E_NOTICE	: LoggingManager: Undefined variable: captcha_error in File: /Users/danielsiekiera/Websites/modified-bs4/login.php on Line: 197
+[07-02-2017 18:09:28] E_NOTICE	: LoggingManager: Constant PROJECT_VERSION already defined in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/version.php on Line: 20
+[07-02-2017 18:09:28] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/inc/check_version_update.inc.php called at Line 20
+[07-02-2017 18:09:28] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/templates/tpl_modified_bs4/source/boxes/admin.php called at Line 52
+[07-02-2017 18:09:28] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/templates/tpl_modified_bs4/source/boxes.php called at Line 103
+[07-02-2017 18:09:28] E_NOTICE	: LoggingManager: Backtrace #3 - /Users/danielsiekiera/Websites/modified-bs4/index.php called at Line 31
+[07-02-2017 18:19:42] E_NOTICE	: LoggingManager: Constant PROJECT_VERSION already defined in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/version.php on Line: 20
+[07-02-2017 18:19:42] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/inc/check_version_update.inc.php called at Line 20
+[07-02-2017 18:19:42] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/templates/tpl_modified_bs4/source/boxes/admin.php called at Line 52
+[07-02-2017 18:19:42] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/templates/tpl_modified_bs4/source/boxes.php called at Line 103
+[07-02-2017 18:19:42] E_NOTICE	: LoggingManager: Backtrace #3 - /Users/danielsiekiera/Websites/modified-bs4/index.php called at Line 31
+[07-02-2017 18:19:42] E_NOTICE	: LoggingManager: Undefined offset: 0 in File: /Users/danielsiekiera/Websites/modified-bs4/includes/classes/xtcPrice.php on Line: 643
+[07-02-2017 18:19:42] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/includes/classes/product.php called at Line 489
+[07-02-2017 18:19:42] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/includes/extra/default/center_modules/new_products_default.php called at Line 94
+[07-02-2017 18:19:42] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/includes/modules/default.php called at Line 320
+[07-02-2017 18:19:42] E_NOTICE	: LoggingManager: Backtrace #3 - /Users/danielsiekiera/Websites/modified-bs4/index.php called at Line 32
+[07-02-2017 18:19:47] E_NOTICE	: LoggingManager: Constant PROJECT_VERSION already defined in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/version.php on Line: 20
+[07-02-2017 18:19:47] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/inc/check_version_update.inc.php called at Line 20
+[07-02-2017 18:19:47] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/templates/tpl_modified_bs4/source/boxes/admin.php called at Line 52
+[07-02-2017 18:19:47] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/templates/tpl_modified_bs4/source/boxes.php called at Line 103
+[07-02-2017 18:19:47] E_NOTICE	: LoggingManager: Backtrace #3 - /Users/danielsiekiera/Websites/modified-bs4/index.php called at Line 31
+[07-02-2017 18:19:47] E_NOTICE	: LoggingManager: Undefined offset: 0 in File: /Users/danielsiekiera/Websites/modified-bs4/includes/classes/xtcPrice.php on Line: 643
+[07-02-2017 18:19:47] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/includes/classes/product.php called at Line 489
+[07-02-2017 18:19:47] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/includes/modules/product_listing.php called at Line 143
+[07-02-2017 18:19:47] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/includes/modules/default.php called at Line 308
+[07-02-2017 18:19:47] E_NOTICE	: LoggingManager: Backtrace #3 - /Users/danielsiekiera/Websites/modified-bs4/index.php called at Line 32
+[07-02-2017 18:21:07] E_NOTICE	: LoggingManager: Constant PROJECT_VERSION already defined in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/version.php on Line: 20
+[07-02-2017 18:21:07] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/inc/check_version_update.inc.php called at Line 20
+[07-02-2017 18:21:07] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/templates/tpl_modified_bs4/source/boxes/admin.php called at Line 52
+[07-02-2017 18:21:07] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/templates/tpl_modified_bs4/source/boxes.php called at Line 103
+[07-02-2017 18:21:07] E_NOTICE	: LoggingManager: Backtrace #3 - /Users/danielsiekiera/Websites/modified-bs4/index.php called at Line 31
+[07-02-2017 18:21:07] E_NOTICE	: LoggingManager: Undefined offset: 0 in File: /Users/danielsiekiera/Websites/modified-bs4/includes/classes/xtcPrice.php on Line: 643
+[07-02-2017 18:21:07] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/includes/classes/product.php called at Line 489
+[07-02-2017 18:21:07] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/includes/modules/product_listing.php called at Line 143
+[07-02-2017 18:21:07] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/includes/modules/default.php called at Line 308
+[07-02-2017 18:21:07] E_NOTICE	: LoggingManager: Backtrace #3 - /Users/danielsiekiera/Websites/modified-bs4/index.php called at Line 32
+[07-02-2017 18:21:38] E_NOTICE	: LoggingManager: Constant PROJECT_VERSION already defined in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/version.php on Line: 20
+[07-02-2017 18:21:38] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/inc/check_version_update.inc.php called at Line 20
+[07-02-2017 18:21:38] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/templates/tpl_modified_bs4/source/boxes/admin.php called at Line 52
+[07-02-2017 18:21:38] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/templates/tpl_modified_bs4/source/boxes.php called at Line 103
+[07-02-2017 18:21:38] E_NOTICE	: LoggingManager: Backtrace #3 - /Users/danielsiekiera/Websites/modified-bs4/index.php called at Line 31
+[07-02-2017 18:21:38] E_NOTICE	: LoggingManager: Undefined offset: 0 in File: /Users/danielsiekiera/Websites/modified-bs4/includes/classes/xtcPrice.php on Line: 643
+[07-02-2017 18:21:38] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/includes/classes/product.php called at Line 489
+[07-02-2017 18:21:38] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/includes/modules/product_listing.php called at Line 143
+[07-02-2017 18:21:38] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/includes/modules/default.php called at Line 308
+[07-02-2017 18:21:38] E_NOTICE	: LoggingManager: Backtrace #3 - /Users/danielsiekiera/Websites/modified-bs4/index.php called at Line 32
+[07-02-2017 18:26:59] E_NOTICE	: LoggingManager: Constant PROJECT_VERSION already defined in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/version.php on Line: 20
+[07-02-2017 18:26:59] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/inc/check_version_update.inc.php called at Line 20
+[07-02-2017 18:26:59] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/templates/tpl_modified_bs4/source/boxes/admin.php called at Line 52
+[07-02-2017 18:26:59] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/templates/tpl_modified_bs4/source/boxes.php called at Line 103
+[07-02-2017 18:26:59] E_NOTICE	: LoggingManager: Backtrace #3 - /Users/danielsiekiera/Websites/modified-bs4/index.php called at Line 31
+[07-02-2017 18:26:59] E_NOTICE	: LoggingManager: Undefined offset: 0 in File: /Users/danielsiekiera/Websites/modified-bs4/includes/classes/xtcPrice.php on Line: 643
+[07-02-2017 18:26:59] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/includes/classes/product.php called at Line 489
+[07-02-2017 18:26:59] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/includes/modules/product_listing.php called at Line 143
+[07-02-2017 18:26:59] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/includes/modules/default.php called at Line 308
+[07-02-2017 18:26:59] E_NOTICE	: LoggingManager: Backtrace #3 - /Users/danielsiekiera/Websites/modified-bs4/index.php called at Line 32
+[07-02-2017 18:37:55] E_NOTICE	: LoggingManager: Constant PROJECT_VERSION already defined in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/version.php on Line: 20
+[07-02-2017 18:37:55] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/inc/check_version_update.inc.php called at Line 20
+[07-02-2017 18:37:55] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/templates/tpl_modified_bs4/source/boxes/admin.php called at Line 52
+[07-02-2017 18:37:55] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/templates/tpl_modified_bs4/source/boxes.php called at Line 103
+[07-02-2017 18:37:55] E_NOTICE	: LoggingManager: Backtrace #3 - /Users/danielsiekiera/Websites/modified-bs4/index.php called at Line 31
+[07-02-2017 18:37:55] E_NOTICE	: LoggingManager: Undefined offset: 0 in File: /Users/danielsiekiera/Websites/modified-bs4/includes/classes/xtcPrice.php on Line: 643
+[07-02-2017 18:37:55] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/includes/classes/product.php called at Line 489
+[07-02-2017 18:37:55] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/includes/modules/product_listing.php called at Line 143
+[07-02-2017 18:37:55] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/includes/modules/default.php called at Line 308
+[07-02-2017 18:37:55] E_NOTICE	: LoggingManager: Backtrace #3 - /Users/danielsiekiera/Websites/modified-bs4/index.php called at Line 32
+[07-02-2017 18:40:11] E_NOTICE	: LoggingManager: Constant PROJECT_VERSION already defined in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/version.php on Line: 20
+[07-02-2017 18:40:11] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/inc/check_version_update.inc.php called at Line 20
+[07-02-2017 18:40:11] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/templates/tpl_modified_bs4/source/boxes/admin.php called at Line 52
+[07-02-2017 18:40:11] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/templates/tpl_modified_bs4/source/boxes.php called at Line 103
+[07-02-2017 18:40:11] E_NOTICE	: LoggingManager: Backtrace #3 - /Users/danielsiekiera/Websites/modified-bs4/index.php called at Line 31
+[07-02-2017 18:40:11] E_NOTICE	: LoggingManager: Undefined offset: 0 in File: /Users/danielsiekiera/Websites/modified-bs4/includes/classes/xtcPrice.php on Line: 643
+[07-02-2017 18:40:11] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/includes/classes/product.php called at Line 489
+[07-02-2017 18:40:11] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/includes/modules/product_listing.php called at Line 143
+[07-02-2017 18:40:11] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/includes/modules/default.php called at Line 308
+[07-02-2017 18:40:11] E_NOTICE	: LoggingManager: Backtrace #3 - /Users/danielsiekiera/Websites/modified-bs4/index.php called at Line 32
+[07-02-2017 18:40:37] E_NOTICE	: LoggingManager: Constant PROJECT_VERSION already defined in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/version.php on Line: 20
+[07-02-2017 18:40:37] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/inc/check_version_update.inc.php called at Line 20
+[07-02-2017 18:40:37] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/templates/tpl_modified_bs4/source/boxes/admin.php called at Line 52
+[07-02-2017 18:40:37] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/templates/tpl_modified_bs4/source/boxes.php called at Line 103
+[07-02-2017 18:40:37] E_NOTICE	: LoggingManager: Backtrace #3 - /Users/danielsiekiera/Websites/modified-bs4/index.php called at Line 31
+[07-02-2017 18:40:37] E_NOTICE	: LoggingManager: Undefined offset: 0 in File: /Users/danielsiekiera/Websites/modified-bs4/includes/classes/xtcPrice.php on Line: 643
+[07-02-2017 18:40:37] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/includes/classes/product.php called at Line 489
+[07-02-2017 18:40:37] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/includes/modules/product_listing.php called at Line 143
+[07-02-2017 18:40:37] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/includes/modules/default.php called at Line 308
+[07-02-2017 18:40:37] E_NOTICE	: LoggingManager: Backtrace #3 - /Users/danielsiekiera/Websites/modified-bs4/index.php called at Line 32
+[07-02-2017 18:40:57] E_NOTICE	: LoggingManager: Constant PROJECT_VERSION already defined in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/version.php on Line: 20
+[07-02-2017 18:40:57] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/inc/check_version_update.inc.php called at Line 20
+[07-02-2017 18:40:57] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/templates/tpl_modified_bs4/source/boxes/admin.php called at Line 52
+[07-02-2017 18:40:57] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/templates/tpl_modified_bs4/source/boxes.php called at Line 103
+[07-02-2017 18:40:57] E_NOTICE	: LoggingManager: Backtrace #3 - /Users/danielsiekiera/Websites/modified-bs4/index.php called at Line 31
+[07-02-2017 18:40:57] E_NOTICE	: LoggingManager: Undefined offset: 0 in File: /Users/danielsiekiera/Websites/modified-bs4/includes/classes/xtcPrice.php on Line: 643
+[07-02-2017 18:40:57] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/includes/classes/product.php called at Line 489
+[07-02-2017 18:40:57] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/includes/modules/product_listing.php called at Line 143
+[07-02-2017 18:40:57] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/includes/modules/default.php called at Line 308
+[07-02-2017 18:40:57] E_NOTICE	: LoggingManager: Backtrace #3 - /Users/danielsiekiera/Websites/modified-bs4/index.php called at Line 32
+[07-02-2017 18:41:59] E_NOTICE	: LoggingManager: Constant PROJECT_VERSION already defined in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/version.php on Line: 20
+[07-02-2017 18:41:59] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/inc/check_version_update.inc.php called at Line 20
+[07-02-2017 18:41:59] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/templates/tpl_modified_bs4/source/boxes/admin.php called at Line 52
+[07-02-2017 18:41:59] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/templates/tpl_modified_bs4/source/boxes.php called at Line 103
+[07-02-2017 18:41:59] E_NOTICE	: LoggingManager: Backtrace #3 - /Users/danielsiekiera/Websites/modified-bs4/index.php called at Line 31
+[07-02-2017 18:41:59] E_NOTICE	: LoggingManager: Undefined offset: 0 in File: /Users/danielsiekiera/Websites/modified-bs4/includes/classes/xtcPrice.php on Line: 643
+[07-02-2017 18:41:59] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/includes/classes/product.php called at Line 489
+[07-02-2017 18:41:59] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/includes/modules/product_listing.php called at Line 143
+[07-02-2017 18:41:59] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/includes/modules/default.php called at Line 308
+[07-02-2017 18:41:59] E_NOTICE	: LoggingManager: Backtrace #3 - /Users/danielsiekiera/Websites/modified-bs4/index.php called at Line 32
+[07-02-2017 18:42:12] E_NOTICE	: LoggingManager: Constant PROJECT_VERSION already defined in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/version.php on Line: 20
+[07-02-2017 18:42:12] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/inc/check_version_update.inc.php called at Line 20
+[07-02-2017 18:42:12] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/templates/tpl_modified_bs4/source/boxes/admin.php called at Line 52
+[07-02-2017 18:42:12] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/templates/tpl_modified_bs4/source/boxes.php called at Line 103
+[07-02-2017 18:42:12] E_NOTICE	: LoggingManager: Backtrace #3 - /Users/danielsiekiera/Websites/modified-bs4/index.php called at Line 31
+[07-02-2017 18:42:12] E_NOTICE	: LoggingManager: Undefined offset: 0 in File: /Users/danielsiekiera/Websites/modified-bs4/includes/classes/xtcPrice.php on Line: 643
+[07-02-2017 18:42:12] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/includes/classes/product.php called at Line 489
+[07-02-2017 18:42:12] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/includes/modules/product_listing.php called at Line 143
+[07-02-2017 18:42:12] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/includes/modules/default.php called at Line 308
+[07-02-2017 18:42:12] E_NOTICE	: LoggingManager: Backtrace #3 - /Users/danielsiekiera/Websites/modified-bs4/index.php called at Line 32
+[07-02-2017 18:43:09] E_NOTICE	: LoggingManager: Constant PROJECT_VERSION already defined in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/version.php on Line: 20
+[07-02-2017 18:43:09] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/inc/check_version_update.inc.php called at Line 20
+[07-02-2017 18:43:09] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/templates/tpl_modified_bs4/source/boxes/admin.php called at Line 52
+[07-02-2017 18:43:09] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/templates/tpl_modified_bs4/source/boxes.php called at Line 103
+[07-02-2017 18:43:09] E_NOTICE	: LoggingManager: Backtrace #3 - /Users/danielsiekiera/Websites/modified-bs4/index.php called at Line 31
+[07-02-2017 18:43:09] E_NOTICE	: LoggingManager: Undefined offset: 0 in File: /Users/danielsiekiera/Websites/modified-bs4/includes/classes/xtcPrice.php on Line: 643
+[07-02-2017 18:43:09] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/includes/classes/product.php called at Line 489
+[07-02-2017 18:43:09] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/includes/modules/product_listing.php called at Line 143
+[07-02-2017 18:43:09] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/includes/modules/default.php called at Line 308
+[07-02-2017 18:43:09] E_NOTICE	: LoggingManager: Backtrace #3 - /Users/danielsiekiera/Websites/modified-bs4/index.php called at Line 32
+[07-02-2017 18:46:47] E_NOTICE	: LoggingManager: Constant PROJECT_VERSION already defined in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/version.php on Line: 20
+[07-02-2017 18:46:47] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/inc/check_version_update.inc.php called at Line 20
+[07-02-2017 18:46:47] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/templates/tpl_modified_bs4/source/boxes/admin.php called at Line 52
+[07-02-2017 18:46:47] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/templates/tpl_modified_bs4/source/boxes.php called at Line 103
+[07-02-2017 18:46:47] E_NOTICE	: LoggingManager: Backtrace #3 - /Users/danielsiekiera/Websites/modified-bs4/index.php called at Line 31
+[07-02-2017 18:46:47] E_NOTICE	: LoggingManager: Undefined offset: 0 in File: /Users/danielsiekiera/Websites/modified-bs4/includes/classes/xtcPrice.php on Line: 643
+[07-02-2017 18:46:47] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/includes/classes/product.php called at Line 489
+[07-02-2017 18:46:47] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/includes/modules/product_listing.php called at Line 143
+[07-02-2017 18:46:47] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/includes/modules/default.php called at Line 308
+[07-02-2017 18:46:47] E_NOTICE	: LoggingManager: Backtrace #3 - /Users/danielsiekiera/Websites/modified-bs4/index.php called at Line 32
+[07-02-2017 18:50:19] E_NOTICE	: LoggingManager: Constant PROJECT_VERSION already defined in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/version.php on Line: 20
+[07-02-2017 18:50:19] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/inc/check_version_update.inc.php called at Line 20
+[07-02-2017 18:50:19] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/templates/tpl_modified_bs4/source/boxes/admin.php called at Line 52
+[07-02-2017 18:50:19] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/templates/tpl_modified_bs4/source/boxes.php called at Line 103
+[07-02-2017 18:50:19] E_NOTICE	: LoggingManager: Backtrace #3 - /Users/danielsiekiera/Websites/modified-bs4/index.php called at Line 31
+[07-02-2017 18:50:19] E_NOTICE	: LoggingManager: Undefined offset: 0 in File: /Users/danielsiekiera/Websites/modified-bs4/includes/classes/xtcPrice.php on Line: 643
+[07-02-2017 18:50:19] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/includes/classes/product.php called at Line 489
+[07-02-2017 18:50:19] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/includes/modules/product_listing.php called at Line 143
+[07-02-2017 18:50:19] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/includes/modules/default.php called at Line 308
+[07-02-2017 18:50:19] E_NOTICE	: LoggingManager: Backtrace #3 - /Users/danielsiekiera/Websites/modified-bs4/index.php called at Line 32
+[07-02-2017 18:51:13] E_NOTICE	: LoggingManager: Constant PROJECT_VERSION already defined in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/version.php on Line: 20
+[07-02-2017 18:51:13] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/inc/check_version_update.inc.php called at Line 20
+[07-02-2017 18:51:13] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/templates/tpl_modified_bs4/source/boxes/admin.php called at Line 52
+[07-02-2017 18:51:13] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/templates/tpl_modified_bs4/source/boxes.php called at Line 103
+[07-02-2017 18:51:13] E_NOTICE	: LoggingManager: Backtrace #3 - /Users/danielsiekiera/Websites/modified-bs4/index.php called at Line 31
+[07-02-2017 18:51:13] E_NOTICE	: LoggingManager: Undefined offset: 0 in File: /Users/danielsiekiera/Websites/modified-bs4/includes/classes/xtcPrice.php on Line: 643
+[07-02-2017 18:51:13] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/includes/classes/product.php called at Line 489
+[07-02-2017 18:51:13] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/includes/modules/product_listing.php called at Line 143
+[07-02-2017 18:51:13] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/includes/modules/default.php called at Line 308
+[07-02-2017 18:51:13] E_NOTICE	: LoggingManager: Backtrace #3 - /Users/danielsiekiera/Websites/modified-bs4/index.php called at Line 32
+[07-02-2017 18:53:56] E_NOTICE	: LoggingManager: Constant PROJECT_VERSION already defined in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/version.php on Line: 20
+[07-02-2017 18:53:56] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/inc/check_version_update.inc.php called at Line 20
+[07-02-2017 18:53:56] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/templates/tpl_modified_bs4/source/boxes/admin.php called at Line 52
+[07-02-2017 18:53:56] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/templates/tpl_modified_bs4/source/boxes.php called at Line 103
+[07-02-2017 18:53:56] E_NOTICE	: LoggingManager: Backtrace #3 - /Users/danielsiekiera/Websites/modified-bs4/index.php called at Line 31
+[07-02-2017 18:53:56] E_NOTICE	: LoggingManager: Undefined offset: 0 in File: /Users/danielsiekiera/Websites/modified-bs4/includes/classes/xtcPrice.php on Line: 643
+[07-02-2017 18:53:56] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/includes/classes/product.php called at Line 489
+[07-02-2017 18:53:56] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/includes/modules/product_listing.php called at Line 143
+[07-02-2017 18:53:56] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/includes/modules/default.php called at Line 308
+[07-02-2017 18:53:56] E_NOTICE	: LoggingManager: Backtrace #3 - /Users/danielsiekiera/Websites/modified-bs4/index.php called at Line 32
+[07-02-2017 18:57:35] E_NOTICE	: LoggingManager: Constant PROJECT_VERSION already defined in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/version.php on Line: 20
+[07-02-2017 18:57:35] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/inc/check_version_update.inc.php called at Line 20
+[07-02-2017 18:57:35] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/templates/tpl_modified_bs4/source/boxes/admin.php called at Line 52
+[07-02-2017 18:57:35] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/templates/tpl_modified_bs4/source/boxes.php called at Line 103
+[07-02-2017 18:57:35] E_NOTICE	: LoggingManager: Backtrace #3 - /Users/danielsiekiera/Websites/modified-bs4/index.php called at Line 31
+[07-02-2017 18:57:35] E_NOTICE	: LoggingManager: Undefined offset: 0 in File: /Users/danielsiekiera/Websites/modified-bs4/includes/classes/xtcPrice.php on Line: 643
+[07-02-2017 18:57:35] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/includes/classes/product.php called at Line 489
+[07-02-2017 18:57:35] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/includes/modules/product_listing.php called at Line 143
+[07-02-2017 18:57:35] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/includes/modules/default.php called at Line 308
+[07-02-2017 18:57:35] E_NOTICE	: LoggingManager: Backtrace #3 - /Users/danielsiekiera/Websites/modified-bs4/index.php called at Line 32
+[07-02-2017 18:57:47] E_NOTICE	: LoggingManager: Constant PROJECT_VERSION already defined in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/version.php on Line: 20
+[07-02-2017 18:57:47] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/inc/check_version_update.inc.php called at Line 20
+[07-02-2017 18:57:47] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/templates/tpl_modified_bs4/source/boxes/admin.php called at Line 52
+[07-02-2017 18:57:47] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/templates/tpl_modified_bs4/source/boxes.php called at Line 103
+[07-02-2017 18:57:47] E_NOTICE	: LoggingManager: Backtrace #3 - /Users/danielsiekiera/Websites/modified-bs4/index.php called at Line 31
+[07-02-2017 18:57:47] E_NOTICE	: LoggingManager: Undefined offset: 0 in File: /Users/danielsiekiera/Websites/modified-bs4/includes/classes/xtcPrice.php on Line: 643
+[07-02-2017 18:57:47] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/includes/classes/product.php called at Line 489
+[07-02-2017 18:57:47] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/includes/modules/product_listing.php called at Line 143
+[07-02-2017 18:57:47] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/includes/modules/default.php called at Line 308
+[07-02-2017 18:57:47] E_NOTICE	: LoggingManager: Backtrace #3 - /Users/danielsiekiera/Websites/modified-bs4/index.php called at Line 32
+[07-02-2017 18:58:39] E_NOTICE	: LoggingManager: Constant PROJECT_VERSION already defined in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/version.php on Line: 20
+[07-02-2017 18:58:39] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/inc/check_version_update.inc.php called at Line 20
+[07-02-2017 18:58:39] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/templates/tpl_modified_bs4/source/boxes/admin.php called at Line 52
+[07-02-2017 18:58:39] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/templates/tpl_modified_bs4/source/boxes.php called at Line 103
+[07-02-2017 18:58:39] E_NOTICE	: LoggingManager: Backtrace #3 - /Users/danielsiekiera/Websites/modified-bs4/index.php called at Line 31
+[07-02-2017 18:58:39] E_NOTICE	: LoggingManager: Undefined offset: 0 in File: /Users/danielsiekiera/Websites/modified-bs4/includes/classes/xtcPrice.php on Line: 643
+[07-02-2017 18:58:39] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/includes/classes/product.php called at Line 489
+[07-02-2017 18:58:39] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/includes/modules/product_listing.php called at Line 143
+[07-02-2017 18:58:39] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/includes/modules/default.php called at Line 308
+[07-02-2017 18:58:39] E_NOTICE	: LoggingManager: Backtrace #3 - /Users/danielsiekiera/Websites/modified-bs4/index.php called at Line 32
+[07-02-2017 18:59:28] E_NOTICE	: LoggingManager: Constant PROJECT_VERSION already defined in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/version.php on Line: 20
+[07-02-2017 18:59:28] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/inc/check_version_update.inc.php called at Line 20
+[07-02-2017 18:59:28] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/templates/tpl_modified_bs4/source/boxes/admin.php called at Line 52
+[07-02-2017 18:59:28] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/templates/tpl_modified_bs4/source/boxes.php called at Line 103
+[07-02-2017 18:59:28] E_NOTICE	: LoggingManager: Backtrace #3 - /Users/danielsiekiera/Websites/modified-bs4/index.php called at Line 31
+[07-02-2017 18:59:28] E_NOTICE	: LoggingManager: Undefined offset: 0 in File: /Users/danielsiekiera/Websites/modified-bs4/includes/classes/xtcPrice.php on Line: 643
+[07-02-2017 18:59:28] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/includes/classes/product.php called at Line 489
+[07-02-2017 18:59:28] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/includes/modules/product_listing.php called at Line 143
+[07-02-2017 18:59:28] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/includes/modules/default.php called at Line 308
+[07-02-2017 18:59:28] E_NOTICE	: LoggingManager: Backtrace #3 - /Users/danielsiekiera/Websites/modified-bs4/index.php called at Line 32
+[07-02-2017 19:01:01] E_NOTICE	: LoggingManager: Constant PROJECT_VERSION already defined in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/version.php on Line: 20
+[07-02-2017 19:01:01] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/inc/check_version_update.inc.php called at Line 20
+[07-02-2017 19:01:01] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/templates/tpl_modified_bs4/source/boxes/admin.php called at Line 52
+[07-02-2017 19:01:01] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/templates/tpl_modified_bs4/source/boxes.php called at Line 103
+[07-02-2017 19:01:01] E_NOTICE	: LoggingManager: Backtrace #3 - /Users/danielsiekiera/Websites/modified-bs4/index.php called at Line 31
+[07-02-2017 19:01:01] E_NOTICE	: LoggingManager: Undefined offset: 0 in File: /Users/danielsiekiera/Websites/modified-bs4/includes/classes/xtcPrice.php on Line: 643
+[07-02-2017 19:01:01] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/includes/classes/product.php called at Line 489
+[07-02-2017 19:01:01] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/includes/modules/product_listing.php called at Line 143
+[07-02-2017 19:01:01] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/includes/modules/default.php called at Line 308
+[07-02-2017 19:01:01] E_NOTICE	: LoggingManager: Backtrace #3 - /Users/danielsiekiera/Websites/modified-bs4/index.php called at Line 32
+[07-02-2017 19:01:39] E_NOTICE	: LoggingManager: Constant PROJECT_VERSION already defined in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/version.php on Line: 20
+[07-02-2017 19:01:39] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/inc/check_version_update.inc.php called at Line 20
+[07-02-2017 19:01:39] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/templates/tpl_modified_bs4/source/boxes/admin.php called at Line 52
+[07-02-2017 19:01:39] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/templates/tpl_modified_bs4/source/boxes.php called at Line 103
+[07-02-2017 19:01:39] E_NOTICE	: LoggingManager: Backtrace #3 - /Users/danielsiekiera/Websites/modified-bs4/index.php called at Line 31
+[07-02-2017 19:01:39] E_NOTICE	: LoggingManager: Undefined offset: 0 in File: /Users/danielsiekiera/Websites/modified-bs4/includes/classes/xtcPrice.php on Line: 643
+[07-02-2017 19:01:39] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/includes/classes/product.php called at Line 489
+[07-02-2017 19:01:39] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/includes/modules/product_listing.php called at Line 143
+[07-02-2017 19:01:39] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/includes/modules/default.php called at Line 308
+[07-02-2017 19:01:39] E_NOTICE	: LoggingManager: Backtrace #3 - /Users/danielsiekiera/Websites/modified-bs4/index.php called at Line 32
+[07-02-2017 19:02:02] E_NOTICE	: LoggingManager: Constant PROJECT_VERSION already defined in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/version.php on Line: 20
+[07-02-2017 19:02:02] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/inc/check_version_update.inc.php called at Line 20
+[07-02-2017 19:02:02] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/templates/tpl_modified_bs4/source/boxes/admin.php called at Line 52
+[07-02-2017 19:02:02] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/templates/tpl_modified_bs4/source/boxes.php called at Line 103
+[07-02-2017 19:02:02] E_NOTICE	: LoggingManager: Backtrace #3 - /Users/danielsiekiera/Websites/modified-bs4/index.php called at Line 31
+[07-02-2017 19:02:02] E_NOTICE	: LoggingManager: Undefined offset: 0 in File: /Users/danielsiekiera/Websites/modified-bs4/includes/classes/xtcPrice.php on Line: 643
+[07-02-2017 19:02:02] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/includes/classes/product.php called at Line 489
+[07-02-2017 19:02:02] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/includes/modules/product_listing.php called at Line 143
+[07-02-2017 19:02:02] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/includes/modules/default.php called at Line 308
+[07-02-2017 19:02:02] E_NOTICE	: LoggingManager: Backtrace #3 - /Users/danielsiekiera/Websites/modified-bs4/index.php called at Line 32
+[07-02-2017 19:02:18] E_NOTICE	: LoggingManager: Constant PROJECT_VERSION already defined in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/version.php on Line: 20
+[07-02-2017 19:02:18] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/inc/check_version_update.inc.php called at Line 20
+[07-02-2017 19:02:18] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/templates/tpl_modified_bs4/source/boxes/admin.php called at Line 52
+[07-02-2017 19:02:18] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/templates/tpl_modified_bs4/source/boxes.php called at Line 103
+[07-02-2017 19:02:18] E_NOTICE	: LoggingManager: Backtrace #3 - /Users/danielsiekiera/Websites/modified-bs4/index.php called at Line 31
+[07-02-2017 19:02:18] E_NOTICE	: LoggingManager: Undefined offset: 0 in File: /Users/danielsiekiera/Websites/modified-bs4/includes/classes/xtcPrice.php on Line: 643
+[07-02-2017 19:02:18] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/includes/classes/product.php called at Line 489
+[07-02-2017 19:02:18] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/includes/modules/product_listing.php called at Line 143
+[07-02-2017 19:02:18] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/includes/modules/default.php called at Line 308
+[07-02-2017 19:02:18] E_NOTICE	: LoggingManager: Backtrace #3 - /Users/danielsiekiera/Websites/modified-bs4/index.php called at Line 32
+[07-02-2017 19:05:25] E_NOTICE	: LoggingManager: Constant PROJECT_VERSION already defined in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/version.php on Line: 20
+[07-02-2017 19:05:25] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/inc/check_version_update.inc.php called at Line 20
+[07-02-2017 19:05:25] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/templates/tpl_modified_bs4/source/boxes/admin.php called at Line 52
+[07-02-2017 19:05:25] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/templates/tpl_modified_bs4/source/boxes.php called at Line 103
+[07-02-2017 19:05:25] E_NOTICE	: LoggingManager: Backtrace #3 - /Users/danielsiekiera/Websites/modified-bs4/index.php called at Line 31
+[07-02-2017 19:05:25] E_NOTICE	: LoggingManager: Undefined offset: 0 in File: /Users/danielsiekiera/Websites/modified-bs4/includes/classes/xtcPrice.php on Line: 643
+[07-02-2017 19:05:25] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/includes/classes/product.php called at Line 489
+[07-02-2017 19:05:25] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/includes/modules/product_listing.php called at Line 143
+[07-02-2017 19:05:25] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/includes/modules/default.php called at Line 308
+[07-02-2017 19:05:25] E_NOTICE	: LoggingManager: Backtrace #3 - /Users/danielsiekiera/Websites/modified-bs4/index.php called at Line 32
+[07-02-2017 19:07:17] E_NOTICE	: LoggingManager: Constant PROJECT_VERSION already defined in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/version.php on Line: 20
+[07-02-2017 19:07:17] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/inc/check_version_update.inc.php called at Line 20
+[07-02-2017 19:07:17] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/templates/tpl_modified_bs4/source/boxes/admin.php called at Line 52
+[07-02-2017 19:07:17] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/templates/tpl_modified_bs4/source/boxes.php called at Line 103
+[07-02-2017 19:07:17] E_NOTICE	: LoggingManager: Backtrace #3 - /Users/danielsiekiera/Websites/modified-bs4/index.php called at Line 31
+[07-02-2017 19:07:17] E_NOTICE	: LoggingManager: Undefined offset: 0 in File: /Users/danielsiekiera/Websites/modified-bs4/includes/classes/xtcPrice.php on Line: 643
+[07-02-2017 19:07:17] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/includes/classes/product.php called at Line 489
+[07-02-2017 19:07:17] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/includes/modules/product_listing.php called at Line 143
+[07-02-2017 19:07:17] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/includes/modules/default.php called at Line 308
+[07-02-2017 19:07:17] E_NOTICE	: LoggingManager: Backtrace #3 - /Users/danielsiekiera/Websites/modified-bs4/index.php called at Line 32
+[07-02-2017 19:13:36] E_NOTICE	: LoggingManager: Constant PROJECT_VERSION already defined in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/version.php on Line: 20
+[07-02-2017 19:13:36] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/inc/check_version_update.inc.php called at Line 20
+[07-02-2017 19:13:36] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/templates/tpl_modified_bs4/source/boxes/admin.php called at Line 52
+[07-02-2017 19:13:36] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/templates/tpl_modified_bs4/source/boxes.php called at Line 103
+[07-02-2017 19:13:36] E_NOTICE	: LoggingManager: Backtrace #3 - /Users/danielsiekiera/Websites/modified-bs4/index.php called at Line 31
+[07-02-2017 19:13:36] E_NOTICE	: LoggingManager: Undefined offset: 0 in File: /Users/danielsiekiera/Websites/modified-bs4/includes/classes/xtcPrice.php on Line: 643
+[07-02-2017 19:13:36] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/includes/classes/product.php called at Line 489
+[07-02-2017 19:13:36] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/includes/modules/product_listing.php called at Line 143
+[07-02-2017 19:13:36] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/includes/modules/default.php called at Line 308
+[07-02-2017 19:13:36] E_NOTICE	: LoggingManager: Backtrace #3 - /Users/danielsiekiera/Websites/modified-bs4/index.php called at Line 32
+[07-02-2017 19:21:21] E_NOTICE	: LoggingManager: Constant PROJECT_VERSION already defined in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/version.php on Line: 20
+[07-02-2017 19:21:21] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/inc/check_version_update.inc.php called at Line 20
+[07-02-2017 19:21:21] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/templates/tpl_modified_bs4/source/boxes/admin.php called at Line 52
+[07-02-2017 19:21:21] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/templates/tpl_modified_bs4/source/boxes.php called at Line 103
+[07-02-2017 19:21:21] E_NOTICE	: LoggingManager: Backtrace #3 - /Users/danielsiekiera/Websites/modified-bs4/index.php called at Line 31
+[07-02-2017 19:21:21] E_NOTICE	: LoggingManager: Undefined offset: 0 in File: /Users/danielsiekiera/Websites/modified-bs4/includes/classes/xtcPrice.php on Line: 643
+[07-02-2017 19:21:21] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/includes/classes/product.php called at Line 489
+[07-02-2017 19:21:21] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/includes/modules/product_listing.php called at Line 143
+[07-02-2017 19:21:21] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/includes/modules/default.php called at Line 308
+[07-02-2017 19:21:21] E_NOTICE	: LoggingManager: Backtrace #3 - /Users/danielsiekiera/Websites/modified-bs4/index.php called at Line 32
+[07-02-2017 19:21:51] E_NOTICE	: LoggingManager: Constant PROJECT_VERSION already defined in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/version.php on Line: 20
+[07-02-2017 19:21:51] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/inc/check_version_update.inc.php called at Line 20
+[07-02-2017 19:21:51] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/templates/tpl_modified_bs4/source/boxes/admin.php called at Line 52
+[07-02-2017 19:21:51] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/templates/tpl_modified_bs4/source/boxes.php called at Line 103
+[07-02-2017 19:21:51] E_NOTICE	: LoggingManager: Backtrace #3 - /Users/danielsiekiera/Websites/modified-bs4/index.php called at Line 31
+[07-02-2017 19:21:51] E_NOTICE	: LoggingManager: Undefined offset: 0 in File: /Users/danielsiekiera/Websites/modified-bs4/includes/classes/xtcPrice.php on Line: 643
+[07-02-2017 19:21:51] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/includes/classes/product.php called at Line 489
+[07-02-2017 19:21:51] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/includes/modules/product_listing.php called at Line 143
+[07-02-2017 19:21:51] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/includes/modules/default.php called at Line 308
+[07-02-2017 19:21:51] E_NOTICE	: LoggingManager: Backtrace #3 - /Users/danielsiekiera/Websites/modified-bs4/index.php called at Line 32
+[07-02-2017 19:22:14] E_NOTICE	: LoggingManager: Constant PROJECT_VERSION already defined in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/version.php on Line: 20
+[07-02-2017 19:22:14] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/inc/check_version_update.inc.php called at Line 20
+[07-02-2017 19:22:14] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/templates/tpl_modified_bs4/source/boxes/admin.php called at Line 52
+[07-02-2017 19:22:14] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/templates/tpl_modified_bs4/source/boxes.php called at Line 103
+[07-02-2017 19:22:14] E_NOTICE	: LoggingManager: Backtrace #3 - /Users/danielsiekiera/Websites/modified-bs4/index.php called at Line 31
+[07-02-2017 19:22:14] E_NOTICE	: LoggingManager: Undefined offset: 0 in File: /Users/danielsiekiera/Websites/modified-bs4/includes/classes/xtcPrice.php on Line: 643
+[07-02-2017 19:22:14] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/includes/classes/product.php called at Line 489
+[07-02-2017 19:22:14] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/includes/modules/product_listing.php called at Line 143
+[07-02-2017 19:22:15] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/includes/modules/default.php called at Line 308
+[07-02-2017 19:22:15] E_NOTICE	: LoggingManager: Backtrace #3 - /Users/danielsiekiera/Websites/modified-bs4/index.php called at Line 32
+[07-02-2017 19:22:35] E_NOTICE	: LoggingManager: Constant PROJECT_VERSION already defined in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/version.php on Line: 20
+[07-02-2017 19:22:35] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/inc/check_version_update.inc.php called at Line 20
+[07-02-2017 19:22:35] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/templates/tpl_modified_bs4/source/boxes/admin.php called at Line 52
+[07-02-2017 19:22:35] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/templates/tpl_modified_bs4/source/boxes.php called at Line 103
+[07-02-2017 19:22:35] E_NOTICE	: LoggingManager: Backtrace #3 - /Users/danielsiekiera/Websites/modified-bs4/index.php called at Line 31
+[07-02-2017 19:22:35] E_NOTICE	: LoggingManager: Undefined offset: 0 in File: /Users/danielsiekiera/Websites/modified-bs4/includes/classes/xtcPrice.php on Line: 643
+[07-02-2017 19:22:35] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/includes/classes/product.php called at Line 489
+[07-02-2017 19:22:35] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/includes/modules/product_listing.php called at Line 143
+[07-02-2017 19:22:35] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/includes/modules/default.php called at Line 308
+[07-02-2017 19:22:35] E_NOTICE	: LoggingManager: Backtrace #3 - /Users/danielsiekiera/Websites/modified-bs4/index.php called at Line 32
+[07-02-2017 19:32:58] E_NOTICE	: LoggingManager: Constant PROJECT_VERSION already defined in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/version.php on Line: 20
+[07-02-2017 19:32:58] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/inc/check_version_update.inc.php called at Line 20
+[07-02-2017 19:32:58] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/templates/tpl_modified_bs4/source/boxes/admin.php called at Line 52
+[07-02-2017 19:32:58] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/templates/tpl_modified_bs4/source/boxes.php called at Line 103
+[07-02-2017 19:32:58] E_NOTICE	: LoggingManager: Backtrace #3 - /Users/danielsiekiera/Websites/modified-bs4/index.php called at Line 31
+[07-02-2017 19:32:58] E_NOTICE	: LoggingManager: Undefined offset: 0 in File: /Users/danielsiekiera/Websites/modified-bs4/includes/classes/xtcPrice.php on Line: 643
+[07-02-2017 19:32:58] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/includes/classes/product.php called at Line 489
+[07-02-2017 19:32:58] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/includes/modules/product_listing.php called at Line 143
+[07-02-2017 19:32:58] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/includes/modules/default.php called at Line 308
+[07-02-2017 19:32:58] E_NOTICE	: LoggingManager: Backtrace #3 - /Users/danielsiekiera/Websites/modified-bs4/index.php called at Line 32
+[07-02-2017 19:33:32] E_NOTICE	: LoggingManager: Constant PROJECT_VERSION already defined in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/version.php on Line: 20
+[07-02-2017 19:33:32] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/inc/check_version_update.inc.php called at Line 20
+[07-02-2017 19:33:32] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/templates/tpl_modified_bs4/source/boxes/admin.php called at Line 52
+[07-02-2017 19:33:32] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/templates/tpl_modified_bs4/source/boxes.php called at Line 103
+[07-02-2017 19:33:32] E_NOTICE	: LoggingManager: Backtrace #3 - /Users/danielsiekiera/Websites/modified-bs4/index.php called at Line 31
+[07-02-2017 19:33:32] E_NOTICE	: LoggingManager: Undefined offset: 0 in File: /Users/danielsiekiera/Websites/modified-bs4/includes/classes/xtcPrice.php on Line: 643
+[07-02-2017 19:33:32] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/includes/classes/product.php called at Line 489
+[07-02-2017 19:33:32] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/includes/modules/product_listing.php called at Line 143
+[07-02-2017 19:33:32] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/includes/modules/default.php called at Line 308
+[07-02-2017 19:33:32] E_NOTICE	: LoggingManager: Backtrace #3 - /Users/danielsiekiera/Websites/modified-bs4/index.php called at Line 32
+[07-02-2017 19:33:41] E_NOTICE	: LoggingManager: Constant PROJECT_VERSION already defined in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/version.php on Line: 20
+[07-02-2017 19:33:41] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/inc/check_version_update.inc.php called at Line 20
+[07-02-2017 19:33:41] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/templates/tpl_modified_bs4/source/boxes/admin.php called at Line 52
+[07-02-2017 19:33:41] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/templates/tpl_modified_bs4/source/boxes.php called at Line 103
+[07-02-2017 19:33:41] E_NOTICE	: LoggingManager: Backtrace #3 - /Users/danielsiekiera/Websites/modified-bs4/index.php called at Line 31
+[07-02-2017 19:33:41] E_NOTICE	: LoggingManager: Undefined offset: 0 in File: /Users/danielsiekiera/Websites/modified-bs4/includes/classes/xtcPrice.php on Line: 643
+[07-02-2017 19:33:41] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/includes/classes/product.php called at Line 489
+[07-02-2017 19:33:41] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/includes/modules/product_listing.php called at Line 143
+[07-02-2017 19:33:41] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/includes/modules/default.php called at Line 308
+[07-02-2017 19:33:41] E_NOTICE	: LoggingManager: Backtrace #3 - /Users/danielsiekiera/Websites/modified-bs4/index.php called at Line 32
+[07-02-2017 19:33:54] E_NOTICE	: LoggingManager: Constant PROJECT_VERSION already defined in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/version.php on Line: 20
+[07-02-2017 19:33:54] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/inc/check_version_update.inc.php called at Line 20
+[07-02-2017 19:33:54] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/templates/tpl_modified_bs4/source/boxes/admin.php called at Line 52
+[07-02-2017 19:33:54] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/templates/tpl_modified_bs4/source/boxes.php called at Line 103
+[07-02-2017 19:33:54] E_NOTICE	: LoggingManager: Backtrace #3 - /Users/danielsiekiera/Websites/modified-bs4/index.php called at Line 31
+[07-02-2017 19:33:54] E_NOTICE	: LoggingManager: Undefined offset: 0 in File: /Users/danielsiekiera/Websites/modified-bs4/includes/classes/xtcPrice.php on Line: 643
+[07-02-2017 19:33:54] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/includes/classes/product.php called at Line 489
+[07-02-2017 19:33:54] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/includes/modules/product_listing.php called at Line 143
+[07-02-2017 19:33:54] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/includes/modules/default.php called at Line 308
+[07-02-2017 19:33:54] E_NOTICE	: LoggingManager: Backtrace #3 - /Users/danielsiekiera/Websites/modified-bs4/index.php called at Line 32
+[07-02-2017 19:33:59] E_NOTICE	: LoggingManager: Constant PROJECT_VERSION already defined in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/version.php on Line: 20
+[07-02-2017 19:33:59] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/inc/check_version_update.inc.php called at Line 20
+[07-02-2017 19:33:59] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/templates/tpl_modified_bs4/source/boxes/admin.php called at Line 52
+[07-02-2017 19:33:59] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/templates/tpl_modified_bs4/source/boxes.php called at Line 103
+[07-02-2017 19:33:59] E_NOTICE	: LoggingManager: Backtrace #3 - /Users/danielsiekiera/Websites/modified-bs4/index.php called at Line 31
+[07-02-2017 19:33:59] E_NOTICE	: LoggingManager: Undefined offset: 0 in File: /Users/danielsiekiera/Websites/modified-bs4/includes/classes/xtcPrice.php on Line: 643
+[07-02-2017 19:33:59] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/includes/classes/product.php called at Line 489
+[07-02-2017 19:33:59] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/includes/modules/product_listing.php called at Line 143
+[07-02-2017 19:33:59] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/includes/modules/default.php called at Line 308
+[07-02-2017 19:33:59] E_NOTICE	: LoggingManager: Backtrace #3 - /Users/danielsiekiera/Websites/modified-bs4/index.php called at Line 32
+[07-02-2017 19:34:01] E_NOTICE	: LoggingManager: Constant PROJECT_VERSION already defined in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/version.php on Line: 20
+[07-02-2017 19:34:01] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/inc/check_version_update.inc.php called at Line 20
+[07-02-2017 19:34:01] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/templates/tpl_modified_bs4/source/boxes/admin.php called at Line 52
+[07-02-2017 19:34:01] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/templates/tpl_modified_bs4/source/boxes.php called at Line 103
+[07-02-2017 19:34:01] E_NOTICE	: LoggingManager: Backtrace #3 - /Users/danielsiekiera/Websites/modified-bs4/index.php called at Line 31
+[07-02-2017 19:34:01] E_NOTICE	: LoggingManager: Undefined offset: 0 in File: /Users/danielsiekiera/Websites/modified-bs4/includes/classes/xtcPrice.php on Line: 643
+[07-02-2017 19:34:01] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/includes/classes/product.php called at Line 489
+[07-02-2017 19:34:01] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/includes/modules/product_listing.php called at Line 143
+[07-02-2017 19:34:01] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/includes/modules/default.php called at Line 308
+[07-02-2017 19:34:01] E_NOTICE	: LoggingManager: Backtrace #3 - /Users/danielsiekiera/Websites/modified-bs4/index.php called at Line 32
+[07-02-2017 19:35:32] E_NOTICE	: LoggingManager: Constant PROJECT_VERSION already defined in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/version.php on Line: 20
+[07-02-2017 19:35:32] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/inc/check_version_update.inc.php called at Line 20
+[07-02-2017 19:35:32] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/templates/tpl_modified_bs4/source/boxes/admin.php called at Line 52
+[07-02-2017 19:35:32] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/templates/tpl_modified_bs4/source/boxes.php called at Line 103
+[07-02-2017 19:35:32] E_NOTICE	: LoggingManager: Backtrace #3 - /Users/danielsiekiera/Websites/modified-bs4/index.php called at Line 31
+[07-02-2017 19:35:32] E_NOTICE	: LoggingManager: Undefined offset: 0 in File: /Users/danielsiekiera/Websites/modified-bs4/includes/classes/xtcPrice.php on Line: 643
+[07-02-2017 19:35:32] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/includes/classes/product.php called at Line 489
+[07-02-2017 19:35:32] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/includes/modules/product_listing.php called at Line 143
+[07-02-2017 19:35:32] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/includes/modules/default.php called at Line 308
+[07-02-2017 19:35:32] E_NOTICE	: LoggingManager: Backtrace #3 - /Users/danielsiekiera/Websites/modified-bs4/index.php called at Line 32
+[07-02-2017 19:36:07] E_NOTICE	: LoggingManager: Constant PROJECT_VERSION already defined in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/version.php on Line: 20
+[07-02-2017 19:36:07] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/inc/check_version_update.inc.php called at Line 20
+[07-02-2017 19:36:07] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/templates/tpl_modified_bs4/source/boxes/admin.php called at Line 52
+[07-02-2017 19:36:07] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/templates/tpl_modified_bs4/source/boxes.php called at Line 103
+[07-02-2017 19:36:07] E_NOTICE	: LoggingManager: Backtrace #3 - /Users/danielsiekiera/Websites/modified-bs4/index.php called at Line 31
+[07-02-2017 19:36:07] E_NOTICE	: LoggingManager: Undefined offset: 0 in File: /Users/danielsiekiera/Websites/modified-bs4/includes/classes/xtcPrice.php on Line: 643
+[07-02-2017 19:36:07] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/includes/classes/product.php called at Line 489
+[07-02-2017 19:36:07] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/includes/modules/product_listing.php called at Line 143
+[07-02-2017 19:36:07] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/includes/modules/default.php called at Line 308
+[07-02-2017 19:36:07] E_NOTICE	: LoggingManager: Backtrace #3 - /Users/danielsiekiera/Websites/modified-bs4/index.php called at Line 32
+[07-02-2017 19:37:04] E_NOTICE	: LoggingManager: Constant PROJECT_VERSION already defined in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/version.php on Line: 20
+[07-02-2017 19:37:04] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/inc/check_version_update.inc.php called at Line 20
+[07-02-2017 19:37:04] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/templates/tpl_modified_bs4/source/boxes/admin.php called at Line 52
+[07-02-2017 19:37:04] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/templates/tpl_modified_bs4/source/boxes.php called at Line 103
+[07-02-2017 19:37:04] E_NOTICE	: LoggingManager: Backtrace #3 - /Users/danielsiekiera/Websites/modified-bs4/index.php called at Line 31
+[07-02-2017 19:37:04] E_NOTICE	: LoggingManager: Undefined offset: 0 in File: /Users/danielsiekiera/Websites/modified-bs4/includes/classes/xtcPrice.php on Line: 643
+[07-02-2017 19:37:04] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/includes/classes/product.php called at Line 489
+[07-02-2017 19:37:04] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/includes/modules/product_listing.php called at Line 143
+[07-02-2017 19:37:04] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/includes/modules/default.php called at Line 308
+[07-02-2017 19:37:04] E_NOTICE	: LoggingManager: Backtrace #3 - /Users/danielsiekiera/Websites/modified-bs4/index.php called at Line 32
+[07-02-2017 19:37:37] E_NOTICE	: LoggingManager: Constant PROJECT_VERSION already defined in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/version.php on Line: 20
+[07-02-2017 19:37:37] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/inc/check_version_update.inc.php called at Line 20
+[07-02-2017 19:37:37] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/templates/tpl_modified_bs4/source/boxes/admin.php called at Line 52
+[07-02-2017 19:37:37] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/templates/tpl_modified_bs4/source/boxes.php called at Line 103
+[07-02-2017 19:37:37] E_NOTICE	: LoggingManager: Backtrace #3 - /Users/danielsiekiera/Websites/modified-bs4/index.php called at Line 31
+[07-02-2017 19:37:37] E_NOTICE	: LoggingManager: Undefined offset: 0 in File: /Users/danielsiekiera/Websites/modified-bs4/includes/classes/xtcPrice.php on Line: 643
+[07-02-2017 19:37:37] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/includes/classes/product.php called at Line 489
+[07-02-2017 19:37:37] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/includes/modules/product_listing.php called at Line 143
+[07-02-2017 19:37:37] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/includes/modules/default.php called at Line 308
+[07-02-2017 19:37:37] E_NOTICE	: LoggingManager: Backtrace #3 - /Users/danielsiekiera/Websites/modified-bs4/index.php called at Line 32
+[07-02-2017 19:38:04] E_NOTICE	: LoggingManager: Constant PROJECT_VERSION already defined in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/version.php on Line: 20
+[07-02-2017 19:38:04] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/inc/check_version_update.inc.php called at Line 20
+[07-02-2017 19:38:04] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/templates/tpl_modified_bs4/source/boxes/admin.php called at Line 52
+[07-02-2017 19:38:04] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/templates/tpl_modified_bs4/source/boxes.php called at Line 103
+[07-02-2017 19:38:04] E_NOTICE	: LoggingManager: Backtrace #3 - /Users/danielsiekiera/Websites/modified-bs4/index.php called at Line 31
+[07-02-2017 19:38:04] E_NOTICE	: LoggingManager: Undefined offset: 0 in File: /Users/danielsiekiera/Websites/modified-bs4/includes/classes/xtcPrice.php on Line: 643
+[07-02-2017 19:38:04] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/includes/classes/product.php called at Line 489
+[07-02-2017 19:38:04] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/includes/modules/product_listing.php called at Line 143
+[07-02-2017 19:38:04] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/includes/modules/default.php called at Line 308
+[07-02-2017 19:38:04] E_NOTICE	: LoggingManager: Backtrace #3 - /Users/danielsiekiera/Websites/modified-bs4/index.php called at Line 32
+[07-02-2017 19:40:21] E_NOTICE	: LoggingManager: Constant PROJECT_VERSION already defined in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/version.php on Line: 20
+[07-02-2017 19:40:21] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/inc/check_version_update.inc.php called at Line 20
+[07-02-2017 19:40:21] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/templates/tpl_modified_bs4/source/boxes/admin.php called at Line 52
+[07-02-2017 19:40:21] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/templates/tpl_modified_bs4/source/boxes.php called at Line 103
+[07-02-2017 19:40:21] E_NOTICE	: LoggingManager: Backtrace #3 - /Users/danielsiekiera/Websites/modified-bs4/index.php called at Line 31
+[07-02-2017 19:40:21] E_NOTICE	: LoggingManager: Undefined offset: 0 in File: /Users/danielsiekiera/Websites/modified-bs4/includes/classes/xtcPrice.php on Line: 643
+[07-02-2017 19:40:21] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/includes/classes/product.php called at Line 489
+[07-02-2017 19:40:21] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/includes/modules/product_listing.php called at Line 143
+[07-02-2017 19:40:21] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/includes/modules/default.php called at Line 308
+[07-02-2017 19:40:21] E_NOTICE	: LoggingManager: Backtrace #3 - /Users/danielsiekiera/Websites/modified-bs4/index.php called at Line 32
+[07-02-2017 19:40:28] E_NOTICE	: LoggingManager: Constant PROJECT_VERSION already defined in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/version.php on Line: 20
+[07-02-2017 19:40:28] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/inc/check_version_update.inc.php called at Line 20
+[07-02-2017 19:40:28] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/templates/tpl_modified_bs4/source/boxes/admin.php called at Line 52
+[07-02-2017 19:40:28] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/templates/tpl_modified_bs4/source/boxes.php called at Line 103
+[07-02-2017 19:40:28] E_NOTICE	: LoggingManager: Backtrace #3 - /Users/danielsiekiera/Websites/modified-bs4/index.php called at Line 31
+[07-02-2017 19:40:28] E_NOTICE	: LoggingManager: Undefined offset: 0 in File: /Users/danielsiekiera/Websites/modified-bs4/includes/classes/xtcPrice.php on Line: 643
+[07-02-2017 19:40:28] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/includes/classes/product.php called at Line 489
+[07-02-2017 19:40:28] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/includes/modules/product_listing.php called at Line 143
+[07-02-2017 19:40:28] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/includes/modules/default.php called at Line 308
+[07-02-2017 19:40:28] E_NOTICE	: LoggingManager: Backtrace #3 - /Users/danielsiekiera/Websites/modified-bs4/index.php called at Line 32
+[07-02-2017 19:41:08] E_NOTICE	: LoggingManager: Constant PROJECT_VERSION already defined in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/version.php on Line: 20
+[07-02-2017 19:41:08] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/inc/check_version_update.inc.php called at Line 20
+[07-02-2017 19:41:08] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/templates/tpl_modified_bs4/source/boxes/admin.php called at Line 52
+[07-02-2017 19:41:08] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/templates/tpl_modified_bs4/source/boxes.php called at Line 103
+[07-02-2017 19:41:08] E_NOTICE	: LoggingManager: Backtrace #3 - /Users/danielsiekiera/Websites/modified-bs4/index.php called at Line 31
+[07-02-2017 19:41:08] E_NOTICE	: LoggingManager: Undefined offset: 0 in File: /Users/danielsiekiera/Websites/modified-bs4/includes/classes/xtcPrice.php on Line: 643
+[07-02-2017 19:41:08] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/includes/classes/product.php called at Line 489
+[07-02-2017 19:41:08] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/includes/modules/product_listing.php called at Line 143
+[07-02-2017 19:41:08] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/includes/modules/default.php called at Line 308
+[07-02-2017 19:41:08] E_NOTICE	: LoggingManager: Backtrace #3 - /Users/danielsiekiera/Websites/modified-bs4/index.php called at Line 32
+[07-02-2017 19:45:15] E_NOTICE	: LoggingManager: Constant PROJECT_VERSION already defined in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/version.php on Line: 20
+[07-02-2017 19:45:15] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/inc/check_version_update.inc.php called at Line 20
+[07-02-2017 19:45:15] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/templates/tpl_modified_bs4/source/boxes/admin.php called at Line 52
+[07-02-2017 19:45:15] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/templates/tpl_modified_bs4/source/boxes.php called at Line 103
+[07-02-2017 19:45:15] E_NOTICE	: LoggingManager: Backtrace #3 - /Users/danielsiekiera/Websites/modified-bs4/index.php called at Line 31
+[07-02-2017 19:45:15] E_NOTICE	: LoggingManager: Undefined offset: 0 in File: /Users/danielsiekiera/Websites/modified-bs4/includes/classes/xtcPrice.php on Line: 643
+[07-02-2017 19:45:15] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/includes/classes/product.php called at Line 489
+[07-02-2017 19:45:15] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/includes/modules/product_listing.php called at Line 143
+[07-02-2017 19:45:15] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/includes/modules/default.php called at Line 308
+[07-02-2017 19:45:15] E_NOTICE	: LoggingManager: Backtrace #3 - /Users/danielsiekiera/Websites/modified-bs4/index.php called at Line 32
+[07-02-2017 19:46:17] E_NOTICE	: LoggingManager: Constant PROJECT_VERSION already defined in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/version.php on Line: 20
+[07-02-2017 19:46:17] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/inc/check_version_update.inc.php called at Line 20
+[07-02-2017 19:46:17] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/templates/tpl_modified_bs4/source/boxes/admin.php called at Line 52
+[07-02-2017 19:46:17] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/templates/tpl_modified_bs4/source/boxes.php called at Line 103
+[07-02-2017 19:46:17] E_NOTICE	: LoggingManager: Backtrace #3 - /Users/danielsiekiera/Websites/modified-bs4/index.php called at Line 31
+[07-02-2017 19:46:18] E_NOTICE	: LoggingManager: Undefined offset: 0 in File: /Users/danielsiekiera/Websites/modified-bs4/includes/classes/xtcPrice.php on Line: 643
+[07-02-2017 19:46:18] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/includes/classes/product.php called at Line 489
+[07-02-2017 19:46:18] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/includes/modules/product_listing.php called at Line 143
+[07-02-2017 19:46:18] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/includes/modules/default.php called at Line 308
+[07-02-2017 19:46:18] E_NOTICE	: LoggingManager: Backtrace #3 - /Users/danielsiekiera/Websites/modified-bs4/index.php called at Line 32
+[07-02-2017 19:47:54] E_NOTICE	: LoggingManager: Constant PROJECT_VERSION already defined in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/version.php on Line: 20
+[07-02-2017 19:47:54] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/inc/check_version_update.inc.php called at Line 20
+[07-02-2017 19:47:54] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/templates/tpl_modified_bs4/source/boxes/admin.php called at Line 52
+[07-02-2017 19:47:54] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/templates/tpl_modified_bs4/source/boxes.php called at Line 103
+[07-02-2017 19:47:54] E_NOTICE	: LoggingManager: Backtrace #3 - /Users/danielsiekiera/Websites/modified-bs4/index.php called at Line 31
+[07-02-2017 19:47:54] E_NOTICE	: LoggingManager: Undefined offset: 0 in File: /Users/danielsiekiera/Websites/modified-bs4/includes/classes/xtcPrice.php on Line: 643
+[07-02-2017 19:47:54] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/includes/classes/product.php called at Line 489
+[07-02-2017 19:47:54] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/includes/modules/product_listing.php called at Line 143
+[07-02-2017 19:47:54] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/includes/modules/default.php called at Line 308
+[07-02-2017 19:47:54] E_NOTICE	: LoggingManager: Backtrace #3 - /Users/danielsiekiera/Websites/modified-bs4/index.php called at Line 32
+[07-02-2017 19:49:06] E_NOTICE	: LoggingManager: Constant PROJECT_VERSION already defined in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/version.php on Line: 20
+[07-02-2017 19:49:06] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/inc/check_version_update.inc.php called at Line 20
+[07-02-2017 19:49:06] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/templates/tpl_modified_bs4/source/boxes/admin.php called at Line 52
+[07-02-2017 19:49:06] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/templates/tpl_modified_bs4/source/boxes.php called at Line 103
+[07-02-2017 19:49:06] E_NOTICE	: LoggingManager: Backtrace #3 - /Users/danielsiekiera/Websites/modified-bs4/index.php called at Line 31
+[07-02-2017 19:49:06] E_NOTICE	: LoggingManager: Undefined offset: 0 in File: /Users/danielsiekiera/Websites/modified-bs4/includes/classes/xtcPrice.php on Line: 643
+[07-02-2017 19:49:06] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/includes/classes/product.php called at Line 489
+[07-02-2017 19:49:06] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/includes/modules/product_listing.php called at Line 143
+[07-02-2017 19:49:06] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/includes/modules/default.php called at Line 308
+[07-02-2017 19:49:06] E_NOTICE	: LoggingManager: Backtrace #3 - /Users/danielsiekiera/Websites/modified-bs4/index.php called at Line 32
+[07-02-2017 19:50:03] E_NOTICE	: LoggingManager: Constant PROJECT_VERSION already defined in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/version.php on Line: 20
+[07-02-2017 19:50:03] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/inc/check_version_update.inc.php called at Line 20
+[07-02-2017 19:50:03] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/templates/tpl_modified_bs4/source/boxes/admin.php called at Line 52
+[07-02-2017 19:50:03] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/templates/tpl_modified_bs4/source/boxes.php called at Line 103
+[07-02-2017 19:50:03] E_NOTICE	: LoggingManager: Backtrace #3 - /Users/danielsiekiera/Websites/modified-bs4/index.php called at Line 31
+[07-02-2017 19:50:03] E_NOTICE	: LoggingManager: Undefined offset: 0 in File: /Users/danielsiekiera/Websites/modified-bs4/includes/classes/xtcPrice.php on Line: 643
+[07-02-2017 19:50:03] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/includes/classes/product.php called at Line 489
+[07-02-2017 19:50:03] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/includes/modules/product_listing.php called at Line 143
+[07-02-2017 19:50:03] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/includes/modules/default.php called at Line 308
+[07-02-2017 19:50:03] E_NOTICE	: LoggingManager: Backtrace #3 - /Users/danielsiekiera/Websites/modified-bs4/index.php called at Line 32
+[07-02-2017 19:51:59] E_NOTICE	: LoggingManager: Constant PROJECT_VERSION already defined in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/version.php on Line: 20
+[07-02-2017 19:51:59] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/inc/check_version_update.inc.php called at Line 20
+[07-02-2017 19:51:59] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/templates/tpl_modified_bs4/source/boxes/admin.php called at Line 52
+[07-02-2017 19:51:59] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/templates/tpl_modified_bs4/source/boxes.php called at Line 103
+[07-02-2017 19:51:59] E_NOTICE	: LoggingManager: Backtrace #3 - /Users/danielsiekiera/Websites/modified-bs4/index.php called at Line 31
+[07-02-2017 19:51:59] E_NOTICE	: LoggingManager: Undefined offset: 0 in File: /Users/danielsiekiera/Websites/modified-bs4/includes/classes/xtcPrice.php on Line: 643
+[07-02-2017 19:51:59] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/includes/classes/product.php called at Line 489
+[07-02-2017 19:51:59] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/includes/modules/product_listing.php called at Line 143
+[07-02-2017 19:51:59] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/includes/modules/default.php called at Line 308
+[07-02-2017 19:51:59] E_NOTICE	: LoggingManager: Backtrace #3 - /Users/danielsiekiera/Websites/modified-bs4/index.php called at Line 32
+[07-02-2017 19:53:20] E_NOTICE	: LoggingManager: Constant PROJECT_VERSION already defined in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/version.php on Line: 20
+[07-02-2017 19:53:20] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/inc/check_version_update.inc.php called at Line 20
+[07-02-2017 19:53:20] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/templates/tpl_modified_bs4/source/boxes/admin.php called at Line 52
+[07-02-2017 19:53:20] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/templates/tpl_modified_bs4/source/boxes.php called at Line 103
+[07-02-2017 19:53:20] E_NOTICE	: LoggingManager: Backtrace #3 - /Users/danielsiekiera/Websites/modified-bs4/index.php called at Line 31
+[07-02-2017 19:53:20] E_NOTICE	: LoggingManager: Undefined offset: 0 in File: /Users/danielsiekiera/Websites/modified-bs4/includes/classes/xtcPrice.php on Line: 643
+[07-02-2017 19:53:20] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/includes/classes/product.php called at Line 489
+[07-02-2017 19:53:20] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/includes/modules/product_listing.php called at Line 143
+[07-02-2017 19:53:20] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/includes/modules/default.php called at Line 308
+[07-02-2017 19:53:20] E_NOTICE	: LoggingManager: Backtrace #3 - /Users/danielsiekiera/Websites/modified-bs4/index.php called at Line 32

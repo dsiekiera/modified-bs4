@@ -4,99 +4,6 @@
  * Copyright 2011-2017 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
-/* line 6, templates/tpl_modified_bs4/scss/_custom.scss */
-.navbarContent {
-  background-color: #939393 !important; }
-/* line 9, templates/tpl_modified_bs4/scss/_custom.scss */
-/* line 10, templates/tpl_modified_bs4/scss/_custom.scss */
-  /* line 11, templates/tpl_modified_bs4/scss/_custom.scss */
-    .navbarContent ul li a {
-      color: #fff !important; }
-/* line 14, templates/tpl_modified_bs4/scss/_custom.scss */
-.navbarContent ul li a:hover {
-  color: #6d2551 !important; }
-/* line 21, templates/tpl_modified_bs4/scss/_custom.scss */
-.navbarContent .toggle_cart {
-  display: none; }
-/* line 29, templates/tpl_modified_bs4/scss/_custom.scss */
-.box1 {
-  margin-bottom: 20px;
-  background-color: #d7d7d7;
-  border: 1px solid #bbb;
-  padding: 0px 10px 10px 10px; }
-/* line 35, templates/tpl_modified_bs4/scss/_custom.scss */
-.box1 .box_header {
-  font-family: 'fjallaoneregular', sans-serif;
-  font-size: 16px;
-  color: #434343;
-  font-size: 16px;
-  height: 40px;
-  line-height: 40px;
-  border-bottom: 1px solid #eee;
-  position: relative; }
-/* line 45, templates/tpl_modified_bs4/scss/_custom.scss */
-.box1 .box_header::after {
-  content: '';
-  border-top: 1px solid #989898;
-  position: absolute;
-  bottom: 0px;
-  left: 0;
-  right: 0; }
-/* line 58, templates/tpl_modified_bs4/scss/_custom.scss */
-.box_category {
-  background-color: #434343;
-  border-bottom: 1px solid #1d1d1d;
-  margin-bottom: 20px; }
-/* line 63, templates/tpl_modified_bs4/scss/_custom.scss */
-.box_category .box_category_header {
-  font-family: 'fjallaoneregular', sans-serif;
-  color: #fefefe;
-  font-size: 16px;
-  height: 40px;
-  line-height: 40px;
-  margin: 0px 10px;
-  border-bottom: 1px solid #5e5e5e;
-  position: relative; }
-/* line 73, templates/tpl_modified_bs4/scss/_custom.scss */
-.box_category .box_category_header::after {
-  content: '';
-  border-top: 1px solid #1d1d1d;
-  position: absolute;
-  bottom: 0px;
-  left: 0;
-  right: 0; }
-/* line 83, templates/tpl_modified_bs4/scss/_custom.scss */
-.box_category ul {
-  margin: 0;
-  padding: 0;
-  list-style: none; }
-/* line 88, templates/tpl_modified_bs4/scss/_custom.scss */
-/* line 89, templates/tpl_modified_bs4/scss/_custom.scss */
-
-.box_category ul li a {
-  outline: none;
-  display: block;
-  text-decoration: none; }
-/* line 95, templates/tpl_modified_bs4/scss/_custom.scss */
-/* line 96, templates/tpl_modified_bs4/scss/_custom.scss */
-
-.box_category ul li.level1 a {
-  color: #fff;
-  font-size: 15px;
-  padding: 8px 10px 8px 10px;
-  background: #434343;
-  border-bottom: 1px dotted #656565; }
-/* line 103, templates/tpl_modified_bs4/scss/_custom.scss */
-.box_category ul li.level1 a:hover {
-  color: #fff;
-  background: #7b3c62; }
-/* line 113, templates/tpl_modified_bs4/scss/_custom.scss */
-h1 {
-  border-bottom: 1px solid #ddd;
-  margin-top: 1rem !important;
-  margin-bottom: 0.75rem !important;
-  color: #444; }
-
 @font-face {
   font-family: 'fjallaoneregular';
   src: url('../../css/fonts/fjallaone.eot');
@@ -184,9 +91,8 @@ html {
 /* line 31, templates/tpl_modified_bs4/scss/_reboot.scss */
 *, *::before, *::after {
   box-sizing: inherit; }
-
-@-ms-viewport {
-  width: device-width; }
+  @-ms-viewport {
+    width: device-width; }
 /* line 48, templates/tpl_modified_bs4/scss/_reboot.scss */
 body {
   margin: 0;
@@ -587,46 +493,38 @@ pre code {
   margin-right: auto;
   padding-right: 15px;
   padding-left: 15px; }
-
-@media (min-width: 576px) {
-      .container {
-        padding-right: 15px;
-        padding-left: 15px; } }
-
-@media (min-width: 768px) {
-      .container {
-        padding-right: 15px;
-        padding-left: 15px; } }
-
-@media (min-width: 992px) {
-      .container {
-        padding-right: 15px;
-        padding-left: 15px; } }
-
-@media (min-width: 1200px) {
-      .container {
-        padding-right: 15px;
-        padding-left: 15px; } }
-
-@media (min-width: 576px) {
-      .container {
-        width: 540px;
-        max-width: 100%; } }
-
-@media (min-width: 768px) {
-      .container {
-        width: 720px;
-        max-width: 100%; } }
-
-@media (min-width: 992px) {
-      .container {
-        width: 960px;
-        max-width: 100%; } }
-
-@media (min-width: 1200px) {
-      .container {
-        width: 1140px;
-        max-width: 100%; } }
+  @media (min-width: 576px) {
+    .container {
+      padding-right: 15px;
+      padding-left: 15px; } }
+  @media (min-width: 768px) {
+    .container {
+      padding-right: 15px;
+      padding-left: 15px; } }
+  @media (min-width: 992px) {
+    .container {
+      padding-right: 15px;
+      padding-left: 15px; } }
+  @media (min-width: 1200px) {
+    .container {
+      padding-right: 15px;
+      padding-left: 15px; } }
+  @media (min-width: 576px) {
+    .container {
+      width: 540px;
+      max-width: 100%; } }
+  @media (min-width: 768px) {
+    .container {
+      width: 720px;
+      max-width: 100%; } }
+  @media (min-width: 992px) {
+    .container {
+      width: 960px;
+      max-width: 100%; } }
+  @media (min-width: 1200px) {
+    .container {
+      width: 1140px;
+      max-width: 100%; } }
 /* line 18, templates/tpl_modified_bs4/scss/_grid.scss */
 .container-fluid {
   position: relative;
@@ -634,52 +532,44 @@ pre code {
   margin-right: auto;
   padding-right: 15px;
   padding-left: 15px; }
-
-@media (min-width: 576px) {
-      .container-fluid {
-        padding-right: 15px;
-        padding-left: 15px; } }
-
-@media (min-width: 768px) {
-      .container-fluid {
-        padding-right: 15px;
-        padding-left: 15px; } }
-
-@media (min-width: 992px) {
-      .container-fluid {
-        padding-right: 15px;
-        padding-left: 15px; } }
-
-@media (min-width: 1200px) {
-      .container-fluid {
-        padding-right: 15px;
-        padding-left: 15px; } }
+  @media (min-width: 576px) {
+    .container-fluid {
+      padding-right: 15px;
+      padding-left: 15px; } }
+  @media (min-width: 768px) {
+    .container-fluid {
+      padding-right: 15px;
+      padding-left: 15px; } }
+  @media (min-width: 992px) {
+    .container-fluid {
+      padding-right: 15px;
+      padding-left: 15px; } }
+  @media (min-width: 1200px) {
+    .container-fluid {
+      padding-right: 15px;
+      padding-left: 15px; } }
 /* line 28, templates/tpl_modified_bs4/scss/_grid.scss */
 .row {
   display: flex;
   flex-wrap: wrap;
   margin-right: -15px;
   margin-left: -15px; }
-
-@media (min-width: 576px) {
-      .row {
-        margin-right: -15px;
-        margin-left: -15px; } }
-
-@media (min-width: 768px) {
-      .row {
-        margin-right: -15px;
-        margin-left: -15px; } }
-
-@media (min-width: 992px) {
-      .row {
-        margin-right: -15px;
-        margin-left: -15px; } }
-
-@media (min-width: 1200px) {
-      .row {
-        margin-right: -15px;
-        margin-left: -15px; } }
+  @media (min-width: 576px) {
+    .row {
+      margin-right: -15px;
+      margin-left: -15px; } }
+  @media (min-width: 768px) {
+    .row {
+      margin-right: -15px;
+      margin-left: -15px; } }
+  @media (min-width: 992px) {
+    .row {
+      margin-right: -15px;
+      margin-left: -15px; } }
+  @media (min-width: 1200px) {
+    .row {
+      margin-right: -15px;
+      margin-left: -15px; } }
 /* line 34, templates/tpl_modified_bs4/scss/_grid.scss */
 .no-gutters {
   margin-right: 0;
@@ -695,26 +585,22 @@ pre code {
   min-height: 1px;
   padding-right: 15px;
   padding-left: 15px; }
-
-@media (min-width: 576px) {
-      .col-1, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8, .col-9, .col-10, .col-11, .col-12, .col-13, .col-14, .col-15, .col-16, .col-17, .col-18, .col-19, .col-20, .col-21, .col-22, .col-23, .col-24, .col, .col-sm-1, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm-13, .col-sm-14, .col-sm-15, .col-sm-16, .col-sm-17, .col-sm-18, .col-sm-19, .col-sm-20, .col-sm-21, .col-sm-22, .col-sm-23, .col-sm-24, .col-sm, .col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-10, .col-md-11, .col-md-12, .col-md-13, .col-md-14, .col-md-15, .col-md-16, .col-md-17, .col-md-18, .col-md-19, .col-md-20, .col-md-21, .col-md-22, .col-md-23, .col-md-24, .col-md, .col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg-13, .col-lg-14, .col-lg-15, .col-lg-16, .col-lg-17, .col-lg-18, .col-lg-19, .col-lg-20, .col-lg-21, .col-lg-22, .col-lg-23, .col-lg-24, .col-lg, .col-xl-1, .col-xl-2, .col-xl-3, .col-xl-4, .col-xl-5, .col-xl-6, .col-xl-7, .col-xl-8, .col-xl-9, .col-xl-10, .col-xl-11, .col-xl-12, .col-xl-13, .col-xl-14, .col-xl-15, .col-xl-16, .col-xl-17, .col-xl-18, .col-xl-19, .col-xl-20, .col-xl-21, .col-xl-22, .col-xl-23, .col-xl-24, .col-xl {
-        padding-right: 15px;
-        padding-left: 15px; } }
-
-@media (min-width: 768px) {
-      .col-1, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8, .col-9, .col-10, .col-11, .col-12, .col-13, .col-14, .col-15, .col-16, .col-17, .col-18, .col-19, .col-20, .col-21, .col-22, .col-23, .col-24, .col, .col-sm-1, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm-13, .col-sm-14, .col-sm-15, .col-sm-16, .col-sm-17, .col-sm-18, .col-sm-19, .col-sm-20, .col-sm-21, .col-sm-22, .col-sm-23, .col-sm-24, .col-sm, .col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-10, .col-md-11, .col-md-12, .col-md-13, .col-md-14, .col-md-15, .col-md-16, .col-md-17, .col-md-18, .col-md-19, .col-md-20, .col-md-21, .col-md-22, .col-md-23, .col-md-24, .col-md, .col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg-13, .col-lg-14, .col-lg-15, .col-lg-16, .col-lg-17, .col-lg-18, .col-lg-19, .col-lg-20, .col-lg-21, .col-lg-22, .col-lg-23, .col-lg-24, .col-lg, .col-xl-1, .col-xl-2, .col-xl-3, .col-xl-4, .col-xl-5, .col-xl-6, .col-xl-7, .col-xl-8, .col-xl-9, .col-xl-10, .col-xl-11, .col-xl-12, .col-xl-13, .col-xl-14, .col-xl-15, .col-xl-16, .col-xl-17, .col-xl-18, .col-xl-19, .col-xl-20, .col-xl-21, .col-xl-22, .col-xl-23, .col-xl-24, .col-xl {
-        padding-right: 15px;
-        padding-left: 15px; } }
-
-@media (min-width: 992px) {
-      .col-1, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8, .col-9, .col-10, .col-11, .col-12, .col-13, .col-14, .col-15, .col-16, .col-17, .col-18, .col-19, .col-20, .col-21, .col-22, .col-23, .col-24, .col, .col-sm-1, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm-13, .col-sm-14, .col-sm-15, .col-sm-16, .col-sm-17, .col-sm-18, .col-sm-19, .col-sm-20, .col-sm-21, .col-sm-22, .col-sm-23, .col-sm-24, .col-sm, .col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-10, .col-md-11, .col-md-12, .col-md-13, .col-md-14, .col-md-15, .col-md-16, .col-md-17, .col-md-18, .col-md-19, .col-md-20, .col-md-21, .col-md-22, .col-md-23, .col-md-24, .col-md, .col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg-13, .col-lg-14, .col-lg-15, .col-lg-16, .col-lg-17, .col-lg-18, .col-lg-19, .col-lg-20, .col-lg-21, .col-lg-22, .col-lg-23, .col-lg-24, .col-lg, .col-xl-1, .col-xl-2, .col-xl-3, .col-xl-4, .col-xl-5, .col-xl-6, .col-xl-7, .col-xl-8, .col-xl-9, .col-xl-10, .col-xl-11, .col-xl-12, .col-xl-13, .col-xl-14, .col-xl-15, .col-xl-16, .col-xl-17, .col-xl-18, .col-xl-19, .col-xl-20, .col-xl-21, .col-xl-22, .col-xl-23, .col-xl-24, .col-xl {
-        padding-right: 15px;
-        padding-left: 15px; } }
-
-@media (min-width: 1200px) {
-      .col-1, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8, .col-9, .col-10, .col-11, .col-12, .col-13, .col-14, .col-15, .col-16, .col-17, .col-18, .col-19, .col-20, .col-21, .col-22, .col-23, .col-24, .col, .col-sm-1, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm-13, .col-sm-14, .col-sm-15, .col-sm-16, .col-sm-17, .col-sm-18, .col-sm-19, .col-sm-20, .col-sm-21, .col-sm-22, .col-sm-23, .col-sm-24, .col-sm, .col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-10, .col-md-11, .col-md-12, .col-md-13, .col-md-14, .col-md-15, .col-md-16, .col-md-17, .col-md-18, .col-md-19, .col-md-20, .col-md-21, .col-md-22, .col-md-23, .col-md-24, .col-md, .col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg-13, .col-lg-14, .col-lg-15, .col-lg-16, .col-lg-17, .col-lg-18, .col-lg-19, .col-lg-20, .col-lg-21, .col-lg-22, .col-lg-23, .col-lg-24, .col-lg, .col-xl-1, .col-xl-2, .col-xl-3, .col-xl-4, .col-xl-5, .col-xl-6, .col-xl-7, .col-xl-8, .col-xl-9, .col-xl-10, .col-xl-11, .col-xl-12, .col-xl-13, .col-xl-14, .col-xl-15, .col-xl-16, .col-xl-17, .col-xl-18, .col-xl-19, .col-xl-20, .col-xl-21, .col-xl-22, .col-xl-23, .col-xl-24, .col-xl {
-        padding-right: 15px;
-        padding-left: 15px; } }
+  @media (min-width: 576px) {
+    .col-1, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8, .col-9, .col-10, .col-11, .col-12, .col-13, .col-14, .col-15, .col-16, .col-17, .col-18, .col-19, .col-20, .col-21, .col-22, .col-23, .col-24, .col, .col-sm-1, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm-13, .col-sm-14, .col-sm-15, .col-sm-16, .col-sm-17, .col-sm-18, .col-sm-19, .col-sm-20, .col-sm-21, .col-sm-22, .col-sm-23, .col-sm-24, .col-sm, .col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-10, .col-md-11, .col-md-12, .col-md-13, .col-md-14, .col-md-15, .col-md-16, .col-md-17, .col-md-18, .col-md-19, .col-md-20, .col-md-21, .col-md-22, .col-md-23, .col-md-24, .col-md, .col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg-13, .col-lg-14, .col-lg-15, .col-lg-16, .col-lg-17, .col-lg-18, .col-lg-19, .col-lg-20, .col-lg-21, .col-lg-22, .col-lg-23, .col-lg-24, .col-lg, .col-xl-1, .col-xl-2, .col-xl-3, .col-xl-4, .col-xl-5, .col-xl-6, .col-xl-7, .col-xl-8, .col-xl-9, .col-xl-10, .col-xl-11, .col-xl-12, .col-xl-13, .col-xl-14, .col-xl-15, .col-xl-16, .col-xl-17, .col-xl-18, .col-xl-19, .col-xl-20, .col-xl-21, .col-xl-22, .col-xl-23, .col-xl-24, .col-xl {
+      padding-right: 15px;
+      padding-left: 15px; } }
+  @media (min-width: 768px) {
+    .col-1, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8, .col-9, .col-10, .col-11, .col-12, .col-13, .col-14, .col-15, .col-16, .col-17, .col-18, .col-19, .col-20, .col-21, .col-22, .col-23, .col-24, .col, .col-sm-1, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm-13, .col-sm-14, .col-sm-15, .col-sm-16, .col-sm-17, .col-sm-18, .col-sm-19, .col-sm-20, .col-sm-21, .col-sm-22, .col-sm-23, .col-sm-24, .col-sm, .col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-10, .col-md-11, .col-md-12, .col-md-13, .col-md-14, .col-md-15, .col-md-16, .col-md-17, .col-md-18, .col-md-19, .col-md-20, .col-md-21, .col-md-22, .col-md-23, .col-md-24, .col-md, .col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg-13, .col-lg-14, .col-lg-15, .col-lg-16, .col-lg-17, .col-lg-18, .col-lg-19, .col-lg-20, .col-lg-21, .col-lg-22, .col-lg-23, .col-lg-24, .col-lg, .col-xl-1, .col-xl-2, .col-xl-3, .col-xl-4, .col-xl-5, .col-xl-6, .col-xl-7, .col-xl-8, .col-xl-9, .col-xl-10, .col-xl-11, .col-xl-12, .col-xl-13, .col-xl-14, .col-xl-15, .col-xl-16, .col-xl-17, .col-xl-18, .col-xl-19, .col-xl-20, .col-xl-21, .col-xl-22, .col-xl-23, .col-xl-24, .col-xl {
+      padding-right: 15px;
+      padding-left: 15px; } }
+  @media (min-width: 992px) {
+    .col-1, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8, .col-9, .col-10, .col-11, .col-12, .col-13, .col-14, .col-15, .col-16, .col-17, .col-18, .col-19, .col-20, .col-21, .col-22, .col-23, .col-24, .col, .col-sm-1, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm-13, .col-sm-14, .col-sm-15, .col-sm-16, .col-sm-17, .col-sm-18, .col-sm-19, .col-sm-20, .col-sm-21, .col-sm-22, .col-sm-23, .col-sm-24, .col-sm, .col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-10, .col-md-11, .col-md-12, .col-md-13, .col-md-14, .col-md-15, .col-md-16, .col-md-17, .col-md-18, .col-md-19, .col-md-20, .col-md-21, .col-md-22, .col-md-23, .col-md-24, .col-md, .col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg-13, .col-lg-14, .col-lg-15, .col-lg-16, .col-lg-17, .col-lg-18, .col-lg-19, .col-lg-20, .col-lg-21, .col-lg-22, .col-lg-23, .col-lg-24, .col-lg, .col-xl-1, .col-xl-2, .col-xl-3, .col-xl-4, .col-xl-5, .col-xl-6, .col-xl-7, .col-xl-8, .col-xl-9, .col-xl-10, .col-xl-11, .col-xl-12, .col-xl-13, .col-xl-14, .col-xl-15, .col-xl-16, .col-xl-17, .col-xl-18, .col-xl-19, .col-xl-20, .col-xl-21, .col-xl-22, .col-xl-23, .col-xl-24, .col-xl {
+      padding-right: 15px;
+      padding-left: 15px; } }
+  @media (min-width: 1200px) {
+    .col-1, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8, .col-9, .col-10, .col-11, .col-12, .col-13, .col-14, .col-15, .col-16, .col-17, .col-18, .col-19, .col-20, .col-21, .col-22, .col-23, .col-24, .col, .col-sm-1, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm-13, .col-sm-14, .col-sm-15, .col-sm-16, .col-sm-17, .col-sm-18, .col-sm-19, .col-sm-20, .col-sm-21, .col-sm-22, .col-sm-23, .col-sm-24, .col-sm, .col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-10, .col-md-11, .col-md-12, .col-md-13, .col-md-14, .col-md-15, .col-md-16, .col-md-17, .col-md-18, .col-md-19, .col-md-20, .col-md-21, .col-md-22, .col-md-23, .col-md-24, .col-md, .col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg-13, .col-lg-14, .col-lg-15, .col-lg-16, .col-lg-17, .col-lg-18, .col-lg-19, .col-lg-20, .col-lg-21, .col-lg-22, .col-lg-23, .col-lg-24, .col-lg, .col-xl-1, .col-xl-2, .col-xl-3, .col-xl-4, .col-xl-5, .col-xl-6, .col-xl-7, .col-xl-8, .col-xl-9, .col-xl-10, .col-xl-11, .col-xl-12, .col-xl-13, .col-xl-14, .col-xl-15, .col-xl-16, .col-xl-17, .col-xl-18, .col-xl-19, .col-xl-20, .col-xl-21, .col-xl-22, .col-xl-23, .col-xl-24, .col-xl {
+      padding-right: 15px;
+      padding-left: 15px; } }
 /* line 21, templates/tpl_modified_bs4/scss/mixins/_grid-framework.scss */
 /* line 21, templates/tpl_modified_bs4/scss/mixins/_grid-framework.scss */
 
@@ -6403,10 +6289,9 @@ tbody.collapse.show {
   align-items: center; }
 /* line 134, templates/tpl_modified_bs4/scss/_navbar.scss */
 /* line 135, templates/tpl_modified_bs4/scss/_navbar.scss */
-
-.navbar-toggleable-xl .navbar-nav .dropdown-menu {
-  position: static;
-  float: none; }
+  .navbar-toggleable-xl .navbar-nav .dropdown-menu {
+    position: static;
+    float: none; }
 /* line 141, templates/tpl_modified_bs4/scss/_navbar.scss */
 .navbar-toggleable-xl > .container {
   padding-right: 0;
@@ -10214,4 +10099,191 @@ a.text-gray-dark:focus, a.text-gray-dark:hover {
 @media print {
     .hidden-print {
       display: none !important; } }
-@import "__-category.scss";
+/* line 6, templates/tpl_modified_bs4/scss/_custom.scss */
+nav.navbar {
+  position: relative; }
+/* line 9, templates/tpl_modified_bs4/scss/_custom.scss */
+nav.navbar .navbar-toggler {
+  font-size: 1rem; }
+/* line 13, templates/tpl_modified_bs4/scss/_custom.scss */
+nav.navbar .navbar-toggler-right {
+  right: 0; }
+/* line 17, templates/tpl_modified_bs4/scss/_custom.scss */
+/* line 18, templates/tpl_modified_bs4/scss/_custom.scss */
+
+nav.navbar .navbar-brand span.languages {
+  position: absolute;
+  right: 0; }
+
+@media (min-width: 720px) {
+      nav.navbar .navbar-brand {
+        position: relative; } }
+
+@media (max-width: 720px) {
+/* line 28, templates/tpl_modified_bs4/scss/_custom.scss */
+nav.navbar .navbar-brand span.languages {
+  top: 30px; } }
+/* line 35, templates/tpl_modified_bs4/scss/_custom.scss */
+#breadcrumb {
+  font-size: 75%; }
+/* line 39, templates/tpl_modified_bs4/scss/_custom.scss */
+.navbarContent {
+  background-color: #939393 !important; }
+/* line 42, templates/tpl_modified_bs4/scss/_custom.scss */
+/* line 43, templates/tpl_modified_bs4/scss/_custom.scss */
+
+/* line 44, templates/tpl_modified_bs4/scss/_custom.scss */
+
+.navbarContent ul li a {
+  color: #fff !important; }
+/* line 47, templates/tpl_modified_bs4/scss/_custom.scss */
+.navbarContent ul li a:hover {
+  color: #6d2551 !important; }
+/* line 57, templates/tpl_modified_bs4/scss/_custom.scss */
+.navbar-brand {
+  margin-right: 0 !important; }
+/* line 62, templates/tpl_modified_bs4/scss/_custom.scss */
+.box1 {
+  margin-bottom: 20px;
+  background-color: #d7d7d7;
+  border: 1px solid #bbb;
+  padding: 0px 10px 10px 10px; }
+/* line 68, templates/tpl_modified_bs4/scss/_custom.scss */
+.box1 .box_header {
+  font-family: 'fjallaoneregular', sans-serif;
+  font-size: 16px;
+  color: #434343;
+  font-size: 16px;
+  height: 40px;
+  line-height: 40px;
+  border-bottom: 1px solid #eee;
+  position: relative; }
+/* line 78, templates/tpl_modified_bs4/scss/_custom.scss */
+.box1 .box_header::after {
+  content: '';
+  border-top: 1px solid #989898;
+  position: absolute;
+  bottom: 0px;
+  left: 0;
+  right: 0; }
+/* line 91, templates/tpl_modified_bs4/scss/_custom.scss */
+.box_category {
+  background-color: #434343;
+  border-bottom: 1px solid #1d1d1d;
+  margin-bottom: 20px; }
+/* line 96, templates/tpl_modified_bs4/scss/_custom.scss */
+.box_category .box_category_header {
+  font-family: 'fjallaoneregular', sans-serif;
+  color: #fefefe;
+  font-size: 16px;
+  height: 40px;
+  line-height: 40px;
+  margin: 0px 10px;
+  border-bottom: 1px solid #5e5e5e;
+  position: relative; }
+/* line 106, templates/tpl_modified_bs4/scss/_custom.scss */
+.box_category .box_category_header::after {
+  content: '';
+  border-top: 1px solid #1d1d1d;
+  position: absolute;
+  bottom: 0px;
+  left: 0;
+  right: 0; }
+/* line 116, templates/tpl_modified_bs4/scss/_custom.scss */
+.box_category ul {
+  margin: 0;
+  padding: 0;
+  list-style: none; }
+/* line 121, templates/tpl_modified_bs4/scss/_custom.scss */
+/* line 122, templates/tpl_modified_bs4/scss/_custom.scss */
+
+.box_category ul li a {
+  outline: none;
+  display: block;
+  text-decoration: none; }
+/* line 128, templates/tpl_modified_bs4/scss/_custom.scss */
+/* line 129, templates/tpl_modified_bs4/scss/_custom.scss */
+
+.box_category ul li.level1 a {
+  color: #fff;
+  font-size: 15px;
+  padding: 8px 10px 8px 10px;
+  background: #434343;
+  border-bottom: 1px dotted #656565; }
+/* line 136, templates/tpl_modified_bs4/scss/_custom.scss */
+.box_category ul li.level1 a:hover {
+  color: #fff;
+  background: #7b3c62; }
+/* line 146, templates/tpl_modified_bs4/scss/_custom.scss */
+h1 {
+  border-bottom: 1px solid #ddd;
+  margin-top: 1rem !important;
+  margin-bottom: 0.75rem !important;
+  color: #444; }
+@font-face {
+  font-family: 'fjallaoneregular';
+  src: url('../../css/fonts/fjallaone.eot');
+  src: url('../../css/fonts/fjallaone.eot?#iefix') format('embedded-opentype'), url('../../css/fonts/fjallaone.woff') format('woff'), url('../../css/fonts/fjallaone.ttf') format('truetype'), url('../../css/fonts/fjallaone.svg#fjalla_oneregular') format('svg');
+  font-weight: normal;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'arimoregular';
+  src: url('../../css/fonts/arimo.eot');
+  src: url('../../css/fonts/arimo.eot?#iefix') format('embedded-opentype'), url('../../css/fonts/arimo.woff') format('woff'), url('../../css/fonts/arimo.ttf') format('truetype'), url('../../css/fonts/arimo.svg#arimoregular') format('svg');
+  font-weight: normal;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'arimoregular';
+  src: url('../../css/fonts/arimo_bold.eot');
+  src: url('../../css/fonts/arimo_bold.eot?#iefix') format('embedded-opentype'), url('../../css/fonts/arimo_bold.woff') format('woff'), url('../../css/fonts/arimo_bold.ttf') format('truetype'), url('../../css/fonts/arimo_bold.svg#arimobold') format('svg');
+  font-weight: bold;
+  font-style: normal; }
+/* START IE7 fix for font-weight:bold */
+@font-face {
+  font-family: 'arimobold';
+  src: url('../../css/fonts/arimo_bold.eot');
+  src: url('../../css/fonts/arimo_bold.eot?#iefix') format('embedded-opentype'), url('../../css/fonts/arimo_bold.woff') format('woff'), url('../../css/fonts/arimo_bold.ttf') format('truetype'), url('../../css/fonts/arimo_bold.svg#arimobold') format('svg');
+  font-weight: bold;
+  font-style: normal; }
+/* line 4, templates/tpl_modified_bs4/scss/__category.scss */
+/* line 2, templates/tpl_modified_bs4/scss/mixins/_clearfix.scss */
+  .cat_description::after {
+    display: block;
+    content: "";
+    clear: both; }
+/* line 7, templates/tpl_modified_bs4/scss/__category.scss */
+.cat_description img {
+  float: left;
+  margin: 0 1rem 1rem 0; }
+/* line 13, templates/tpl_modified_bs4/scss/__category.scss */
+/* line 14, templates/tpl_modified_bs4/scss/__category.scss */
+
+/* line 15, templates/tpl_modified_bs4/scss/__category.scss */
+  .row .boxview .card-img-top {
+    text-align: center;
+    padding: 1.25rem; }
+/* line 19, templates/tpl_modified_bs4/scss/__category.scss */
+.row .boxview .card-title {
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  height: 35px; }
+/* line 29, templates/tpl_modified_bs4/scss/__category.scss */
+.filter_bar {
+  background-color: #eceeef;
+  padding: 0.5rem;
+  margin-bottom: 0.5rem; }
+/* line 34, templates/tpl_modified_bs4/scss/__category.scss */
+.filter_bar a {
+  color: #636c72;
+  font-size: 1.24em; }
+/* line 38, templates/tpl_modified_bs4/scss/__category.scss */
+.filter_bar a:hover, .filter_bar a.active {
+  color: #6d2551; }
+/* line 45, templates/tpl_modified_bs4/scss/__category.scss */
+.pagination-bar {
+  font-size: 80%;
+  color: #636c72; }

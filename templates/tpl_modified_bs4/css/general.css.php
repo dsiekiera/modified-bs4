@@ -57,7 +57,7 @@ if(isset($_GET['css_debug']) || !file_exists($_css_cache)){
 	
 	
 	if(!empty($_file)){
-		$_css .= $scss->compile('@import "__'.$_file.'.scss";');
+		$_css .= $scss->compile('@import "__'.ltrim($_file, '-').'.scss";');
 	}
 	file_put_contents($_css_cache, $_css);
 }

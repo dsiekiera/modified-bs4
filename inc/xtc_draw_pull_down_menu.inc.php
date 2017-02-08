@@ -19,7 +19,7 @@
    
 // Output a form pull down menu
   function xtc_draw_pull_down_menu($name, $values, $default = '', $parameters = '', $required = false) {
-    $field = '<select name="' . xtc_parse_input_field_data($name, array('"' => '&quot;')) . '"';
+    $field = '<select class="form-control form-control-sm" name="' . xtc_parse_input_field_data($name, array('"' => '&quot;')) . '"';
 
     if (xtc_not_null($parameters)) $field .= ' ' . $parameters;
 
@@ -45,7 +45,7 @@
   }
   
   function xtc_draw_pull_down_menuNote($data, $values, $default = '', $parameters = '', $required = false) {
-    $field = '<select name="' . xtc_parse_input_field_data($data['name'], array('"' => '&quot;')) . '"';
+    $field = '<select class="form-control form-control-sm" name="' . xtc_parse_input_field_data($data['name'], array('"' => '&quot;')) . '"';
 
     if (xtc_not_null($parameters)) $field .= ' ' . $parameters;
 

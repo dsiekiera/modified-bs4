@@ -5,7 +5,9 @@
 {strip}
 	<h1>{#heading_login#}</h1>
 	
-	{if $info_message != ''}<div class="{if isset($smarty.get.info) && $smarty.get.info == '1'}info{else}error{/if}message">{$info_message}</div>{/if}
+	{if $info_message != ''}
+		<div class="alert alert-{if isset($smarty.get.info) && $smarty.get.info == '1'}info{else}danger{/if}" role="alert">{$info_message}</div>
+	{/if}
 	
 	<div class="row">
 		<div class="col-sm-12">

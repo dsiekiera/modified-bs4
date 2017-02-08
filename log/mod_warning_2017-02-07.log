@@ -1,0 +1,12 @@
+[07-02-2017 15:22:03] E_WARNING	: LoggingManager: mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in File: /Users/danielsiekiera/Websites/modified-bs4/inc/db_functions_mysqli.inc.php on Line: 91
+[07-02-2017 15:22:03] E_WARNING	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/includes/application_top.php called at Line 201
+[07-02-2017 15:22:03] E_WARNING	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/index.php called at Line 25
+[07-02-2017 15:22:03] E_USER_WARNING	: LoggingManager: 1045 - Access denied for user 'root'@'localhost' (using password: YES)<br/><br/> in File: /Users/danielsiekiera/Websites/modified-bs4/inc/db_functions_mysqli.inc.php on Line: 161
+[07-02-2017 15:22:03] E_USER_WARNING	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/includes/application_top.php called at Line 201
+[07-02-2017 15:22:03] E_USER_WARNING	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/index.php called at Line 25
+[07-02-2017 19:29:35] E_WARNING	: LoggingManager: mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in File: /Users/danielsiekiera/Websites/modified-bs4/inc/db_functions_mysqli.inc.php on Line: 91
+[07-02-2017 19:29:35] E_WARNING	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/includes/application_top.php called at Line 201
+[07-02-2017 19:29:35] E_WARNING	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/index.php called at Line 25
+[07-02-2017 19:29:35] E_USER_WARNING	: LoggingManager: 1045 - Access denied for user 'root'@'localhost' (using password: YES)<br/><br/> in File: /Users/danielsiekiera/Websites/modified-bs4/inc/db_functions_mysqli.inc.php on Line: 161
+[07-02-2017 19:29:35] E_USER_WARNING	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/includes/application_top.php called at Line 201
+[07-02-2017 19:29:35] E_USER_WARNING	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/index.php called at Line 25

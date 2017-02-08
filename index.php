@@ -39,4 +39,3 @@ if (!defined('RM'))
 $smarty->display(CURRENT_TEMPLATE.'/index.html');
 
 include ('includes/application_bottom.php');  
-?>

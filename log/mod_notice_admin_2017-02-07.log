@@ -1,0 +1,924 @@
+[07-02-2017 18:09:44] E_NOTICE	: LoggingManager: Undefined index: cID in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_category.php on Line: 85
+[07-02-2017 18:09:44] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 418
+[07-02-2017 18:09:44] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$categories_name in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_category.php on Line: 88
+[07-02-2017 18:09:44] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 418
+[07-02-2017 18:09:44] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$categories_status in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_category.php on Line: 95
+[07-02-2017 18:09:44] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 418
+[07-02-2017 18:09:44] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_sorting in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_category.php on Line: 99
+[07-02-2017 18:09:44] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 418
+[07-02-2017 18:09:44] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_sorting2 in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_category.php on Line: 100
+[07-02-2017 18:09:44] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 418
+[07-02-2017 18:09:44] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$sort_order in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_category.php on Line: 104
+[07-02-2017 18:09:44] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 418
+[07-02-2017 18:09:44] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$listing_template in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_category.php on Line: 115
+[07-02-2017 18:09:44] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 418
+[07-02-2017 18:09:44] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$categories_template in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_category.php on Line: 119
+[07-02-2017 18:09:44] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 418
+[07-02-2017 18:09:44] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$date_added in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_category.php on Line: 153
+[07-02-2017 18:09:44] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 418
+[07-02-2017 18:09:44] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$parent_id in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_category.php on Line: 153
+[07-02-2017 18:09:44] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 418
+[07-02-2017 18:09:44] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$categories_id in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_category.php on Line: 154
+[07-02-2017 18:09:44] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 418
+[07-02-2017 18:09:44] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$categories_id in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_category.php on Line: 171
+[07-02-2017 18:09:44] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 418
+[07-02-2017 18:09:44] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$categories_image in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_category.php on Line: 207
+[07-02-2017 18:09:44] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 418
+[07-02-2017 18:09:44] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$categories_image in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_category.php on Line: 208
+[07-02-2017 18:09:44] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 418
+[07-02-2017 18:09:44] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$categories_image in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_category.php on Line: 212
+[07-02-2017 18:09:44] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 418
+[07-02-2017 18:09:44] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$date_added in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_category.php on Line: 224
+[07-02-2017 18:09:44] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 418
+[07-02-2017 18:09:44] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$parent_id in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_category.php on Line: 224
+[07-02-2017 18:09:44] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 418
+[07-02-2017 18:09:44] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$categories_id in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_category.php on Line: 225
+[07-02-2017 18:09:44] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 418
+[07-02-2017 18:11:17] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_id in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php on Line: 61
+[07-02-2017 18:11:17] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:11:17] E_NOTICE	: LoggingManager: Undefined index: pID in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php on Line: 95
+[07-02-2017 18:11:17] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:11:17] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_name in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php on Line: 99
+[07-02-2017 18:11:17] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:11:17] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_status in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php on Line: 106
+[07-02-2017 18:11:17] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:11:17] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_startpage_sort in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php on Line: 118
+[07-02-2017 18:11:17] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:11:17] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_sort in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php on Line: 122
+[07-02-2017 18:11:17] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:11:17] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_vpe_value in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php on Line: 131
+[07-02-2017 18:11:17] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:11:17] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_vpe in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php on Line: 135
+[07-02-2017 18:11:17] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:11:17] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_last_modified in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php on Line: 148
+[07-02-2017 18:11:17] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:11:17] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_quantity in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php on Line: 152
+[07-02-2017 18:11:17] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:11:17] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_model in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php on Line: 156
+[07-02-2017 18:11:17] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:11:17] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_ean in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php on Line: 160
+[07-02-2017 18:11:17] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:11:17] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$manufacturers_id in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php on Line: 164
+[07-02-2017 18:11:17] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:11:17] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_manufacturers_model in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php on Line: 168
+[07-02-2017 18:11:17] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:11:17] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_weight in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php on Line: 172
+[07-02-2017 18:11:17] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:11:17] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_shippingtime in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php on Line: 177
+[07-02-2017 18:11:17] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:11:17] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$product_template in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php on Line: 187
+[07-02-2017 18:11:17] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:11:17] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$options_template in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php on Line: 191
+[07-02-2017 18:11:17] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:11:17] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_tax_class_id in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/group_prices.php on Line: 47
+[07-02-2017 18:11:17] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 206
+[07-02-2017 18:11:17] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:11:17] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_price in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/group_prices.php on Line: 59
+[07-02-2017 18:11:17] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 206
+[07-02-2017 18:11:17] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:11:17] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_price in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/categories_specials.php on Line: 26
+[07-02-2017 18:11:17] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/group_prices.php called at Line 72
+[07-02-2017 18:11:17] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 206
+[07-02-2017 18:11:17] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:11:17] E_NOTICE	: LoggingManager: Undefined variable: sInfo in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/categories_specials.php on Line: 59
+[07-02-2017 18:11:17] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/group_prices.php called at Line 72
+[07-02-2017 18:11:17] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 206
+[07-02-2017 18:11:17] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:11:17] E_NOTICE	: LoggingManager: Trying to get property of non-object in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/categories_specials.php on Line: 59
+[07-02-2017 18:11:17] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/group_prices.php called at Line 72
+[07-02-2017 18:11:17] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 206
+[07-02-2017 18:11:17] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:11:17] E_NOTICE	: LoggingManager: Undefined variable: sInfo in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/categories_specials.php on Line: 60
+[07-02-2017 18:11:17] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/group_prices.php called at Line 72
+[07-02-2017 18:11:17] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 206
+[07-02-2017 18:11:17] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:11:17] E_NOTICE	: LoggingManager: Trying to get property of non-object in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/categories_specials.php on Line: 60
+[07-02-2017 18:11:17] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/group_prices.php called at Line 72
+[07-02-2017 18:11:17] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 206
+[07-02-2017 18:11:17] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:11:17] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_tax_class_id in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/categories_specials.php on Line: 90
+[07-02-2017 18:11:17] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/group_prices.php called at Line 72
+[07-02-2017 18:11:17] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 206
+[07-02-2017 18:11:17] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:11:17] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_price in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/categories_specials.php on Line: 91
+[07-02-2017 18:11:17] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/group_prices.php called at Line 72
+[07-02-2017 18:11:17] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 206
+[07-02-2017 18:11:17] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:11:17] E_NOTICE	: LoggingManager: Undefined variable: sInfo in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/categories_specials.php on Line: 100
+[07-02-2017 18:11:17] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/group_prices.php called at Line 72
+[07-02-2017 18:11:17] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 206
+[07-02-2017 18:11:17] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:11:17] E_NOTICE	: LoggingManager: Trying to get property of non-object in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/categories_specials.php on Line: 100
+[07-02-2017 18:11:17] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/group_prices.php called at Line 72
+[07-02-2017 18:11:17] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 206
+[07-02-2017 18:11:17] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:11:17] E_NOTICE	: LoggingManager: Undefined variable: sInfo in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/categories_specials.php on Line: 125
+[07-02-2017 18:11:17] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/group_prices.php called at Line 72
+[07-02-2017 18:11:17] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 206
+[07-02-2017 18:11:17] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:11:17] E_NOTICE	: LoggingManager: Trying to get property of non-object in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/categories_specials.php on Line: 125
+[07-02-2017 18:11:17] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/group_prices.php called at Line 72
+[07-02-2017 18:11:17] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 206
+[07-02-2017 18:11:17] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:11:17] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_id in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/group_prices.php on Line: 83
+[07-02-2017 18:11:17] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 206
+[07-02-2017 18:11:17] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:11:17] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_discount_allowed in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/group_prices.php on Line: 176
+[07-02-2017 18:11:17] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 206
+[07-02-2017 18:11:17] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:11:17] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_tax_class_id in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/group_prices.php on Line: 180
+[07-02-2017 18:11:17] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 206
+[07-02-2017 18:11:17] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:11:17] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_id in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php on Line: 257
+[07-02-2017 18:11:17] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:11:17] E_NOTICE	: LoggingManager: Constant HEADING_TITLE already defined in File: /Users/danielsiekiera/Websites/modified-bs4/lang/german/admin/content_manager.php on Line: 16
+[07-02-2017 18:11:17] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_products_content.php called at Line 20
+[07-02-2017 18:11:17] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 293
+[07-02-2017 18:11:17] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:11:17] E_NOTICE	: LoggingManager: Constant TEXT_DELETE already defined in File: /Users/danielsiekiera/Websites/modified-bs4/lang/german/admin/content_manager.php on Line: 36
+[07-02-2017 18:11:17] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_products_content.php called at Line 20
+[07-02-2017 18:11:17] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 293
+[07-02-2017 18:11:17] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:11:17] E_NOTICE	: LoggingManager: Constant TEXT_SELECT already defined in File: /Users/danielsiekiera/Websites/modified-bs4/lang/german/admin/content_manager.php on Line: 49
+[07-02-2017 18:11:17] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_products_content.php called at Line 20
+[07-02-2017 18:11:17] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 293
+[07-02-2017 18:11:17] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:11:17] E_NOTICE	: LoggingManager: Constant TEXT_NO_FILE already defined in File: /Users/danielsiekiera/Websites/modified-bs4/lang/german/admin/content_manager.php on Line: 56
+[07-02-2017 18:11:17] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_products_content.php called at Line 20
+[07-02-2017 18:11:17] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 293
+[07-02-2017 18:11:17] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:11:17] E_NOTICE	: LoggingManager: Constant TEXT_SORT_ORDER already defined in File: /Users/danielsiekiera/Websites/modified-bs4/lang/german/admin/content_manager.php on Line: 68
+[07-02-2017 18:11:17] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_products_content.php called at Line 20
+[07-02-2017 18:11:17] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 293
+[07-02-2017 18:11:17] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:11:17] E_NOTICE	: LoggingManager: Undefined index: pID in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_products_content.php on Line: 33
+[07-02-2017 18:11:17] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 293
+[07-02-2017 18:11:17] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:11:17] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_image in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/products_images.php on Line: 31
+[07-02-2017 18:11:17] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 312
+[07-02-2017 18:11:17] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:11:17] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_image in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/products_images.php on Line: 32
+[07-02-2017 18:11:17] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 312
+[07-02-2017 18:11:17] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:11:17] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_image in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/products_images.php on Line: 40
+[07-02-2017 18:11:17] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 312
+[07-02-2017 18:11:17] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:11:17] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_image in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/products_images.php on Line: 45
+[07-02-2017 18:11:17] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 312
+[07-02-2017 18:11:17] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:11:17] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_id in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/products_images.php on Line: 49
+[07-02-2017 18:11:17] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 312
+[07-02-2017 18:11:17] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:11:17] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_date_added in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php on Line: 321
+[07-02-2017 18:11:17] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:11:17] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_id in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php on Line: 325
+[07-02-2017 18:11:17] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:13:22] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_id in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php on Line: 61
+[07-02-2017 18:13:22] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:13:22] E_NOTICE	: LoggingManager: Undefined index: pID in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php on Line: 95
+[07-02-2017 18:13:22] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:13:22] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_name in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php on Line: 99
+[07-02-2017 18:13:22] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:13:22] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_status in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php on Line: 106
+[07-02-2017 18:13:22] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:13:22] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_startpage_sort in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php on Line: 118
+[07-02-2017 18:13:22] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:13:22] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_sort in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php on Line: 122
+[07-02-2017 18:13:22] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:13:22] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_vpe_value in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php on Line: 131
+[07-02-2017 18:13:22] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:13:22] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_vpe in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php on Line: 135
+[07-02-2017 18:13:22] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:13:22] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_last_modified in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php on Line: 148
+[07-02-2017 18:13:22] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:13:22] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_quantity in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php on Line: 152
+[07-02-2017 18:13:22] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:13:22] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_model in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php on Line: 156
+[07-02-2017 18:13:22] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:13:22] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_ean in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php on Line: 160
+[07-02-2017 18:13:22] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:13:22] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$manufacturers_id in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php on Line: 164
+[07-02-2017 18:13:22] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:13:22] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_manufacturers_model in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php on Line: 168
+[07-02-2017 18:13:22] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:13:22] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_weight in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php on Line: 172
+[07-02-2017 18:13:22] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:13:22] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_shippingtime in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php on Line: 177
+[07-02-2017 18:13:22] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:13:22] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$product_template in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php on Line: 187
+[07-02-2017 18:13:22] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:13:22] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$options_template in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php on Line: 191
+[07-02-2017 18:13:22] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:13:22] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_tax_class_id in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/group_prices.php on Line: 47
+[07-02-2017 18:13:22] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 206
+[07-02-2017 18:13:22] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:13:22] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_price in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/group_prices.php on Line: 59
+[07-02-2017 18:13:22] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 206
+[07-02-2017 18:13:22] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:13:22] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_price in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/categories_specials.php on Line: 26
+[07-02-2017 18:13:22] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/group_prices.php called at Line 72
+[07-02-2017 18:13:22] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 206
+[07-02-2017 18:13:22] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:13:22] E_NOTICE	: LoggingManager: Undefined variable: sInfo in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/categories_specials.php on Line: 59
+[07-02-2017 18:13:22] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/group_prices.php called at Line 72
+[07-02-2017 18:13:22] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 206
+[07-02-2017 18:13:22] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:13:22] E_NOTICE	: LoggingManager: Trying to get property of non-object in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/categories_specials.php on Line: 59
+[07-02-2017 18:13:22] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/group_prices.php called at Line 72
+[07-02-2017 18:13:22] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 206
+[07-02-2017 18:13:22] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:13:22] E_NOTICE	: LoggingManager: Undefined variable: sInfo in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/categories_specials.php on Line: 60
+[07-02-2017 18:13:22] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/group_prices.php called at Line 72
+[07-02-2017 18:13:22] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 206
+[07-02-2017 18:13:22] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:13:22] E_NOTICE	: LoggingManager: Trying to get property of non-object in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/categories_specials.php on Line: 60
+[07-02-2017 18:13:22] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/group_prices.php called at Line 72
+[07-02-2017 18:13:22] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 206
+[07-02-2017 18:13:22] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:13:22] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_tax_class_id in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/categories_specials.php on Line: 90
+[07-02-2017 18:13:22] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/group_prices.php called at Line 72
+[07-02-2017 18:13:22] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 206
+[07-02-2017 18:13:22] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:13:22] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_price in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/categories_specials.php on Line: 91
+[07-02-2017 18:13:22] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/group_prices.php called at Line 72
+[07-02-2017 18:13:22] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 206
+[07-02-2017 18:13:22] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:13:22] E_NOTICE	: LoggingManager: Undefined variable: sInfo in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/categories_specials.php on Line: 100
+[07-02-2017 18:13:22] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/group_prices.php called at Line 72
+[07-02-2017 18:13:22] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 206
+[07-02-2017 18:13:22] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:13:22] E_NOTICE	: LoggingManager: Trying to get property of non-object in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/categories_specials.php on Line: 100
+[07-02-2017 18:13:22] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/group_prices.php called at Line 72
+[07-02-2017 18:13:22] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 206
+[07-02-2017 18:13:22] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:13:22] E_NOTICE	: LoggingManager: Undefined variable: sInfo in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/categories_specials.php on Line: 125
+[07-02-2017 18:13:22] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/group_prices.php called at Line 72
+[07-02-2017 18:13:22] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 206
+[07-02-2017 18:13:22] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:13:22] E_NOTICE	: LoggingManager: Trying to get property of non-object in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/categories_specials.php on Line: 125
+[07-02-2017 18:13:22] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/group_prices.php called at Line 72
+[07-02-2017 18:13:22] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 206
+[07-02-2017 18:13:22] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:13:22] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_id in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/group_prices.php on Line: 83
+[07-02-2017 18:13:22] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 206
+[07-02-2017 18:13:22] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:13:22] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_discount_allowed in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/group_prices.php on Line: 176
+[07-02-2017 18:13:22] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 206
+[07-02-2017 18:13:22] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:13:22] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_tax_class_id in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/group_prices.php on Line: 180
+[07-02-2017 18:13:22] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 206
+[07-02-2017 18:13:22] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:13:22] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_id in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php on Line: 257
+[07-02-2017 18:13:22] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:13:22] E_NOTICE	: LoggingManager: Constant HEADING_TITLE already defined in File: /Users/danielsiekiera/Websites/modified-bs4/lang/german/admin/content_manager.php on Line: 16
+[07-02-2017 18:13:22] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_products_content.php called at Line 20
+[07-02-2017 18:13:22] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 293
+[07-02-2017 18:13:22] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:13:22] E_NOTICE	: LoggingManager: Constant TEXT_DELETE already defined in File: /Users/danielsiekiera/Websites/modified-bs4/lang/german/admin/content_manager.php on Line: 36
+[07-02-2017 18:13:22] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_products_content.php called at Line 20
+[07-02-2017 18:13:22] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 293
+[07-02-2017 18:13:22] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:13:22] E_NOTICE	: LoggingManager: Constant TEXT_SELECT already defined in File: /Users/danielsiekiera/Websites/modified-bs4/lang/german/admin/content_manager.php on Line: 49
+[07-02-2017 18:13:22] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_products_content.php called at Line 20
+[07-02-2017 18:13:22] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 293
+[07-02-2017 18:13:22] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:13:22] E_NOTICE	: LoggingManager: Constant TEXT_NO_FILE already defined in File: /Users/danielsiekiera/Websites/modified-bs4/lang/german/admin/content_manager.php on Line: 56
+[07-02-2017 18:13:22] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_products_content.php called at Line 20
+[07-02-2017 18:13:22] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 293
+[07-02-2017 18:13:22] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:13:22] E_NOTICE	: LoggingManager: Constant TEXT_SORT_ORDER already defined in File: /Users/danielsiekiera/Websites/modified-bs4/lang/german/admin/content_manager.php on Line: 68
+[07-02-2017 18:13:22] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_products_content.php called at Line 20
+[07-02-2017 18:13:22] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 293
+[07-02-2017 18:13:22] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:13:22] E_NOTICE	: LoggingManager: Undefined index: pID in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_products_content.php on Line: 33
+[07-02-2017 18:13:22] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 293
+[07-02-2017 18:13:22] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:13:22] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_image in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/products_images.php on Line: 31
+[07-02-2017 18:13:22] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 312
+[07-02-2017 18:13:22] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:13:22] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_image in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/products_images.php on Line: 32
+[07-02-2017 18:13:22] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 312
+[07-02-2017 18:13:22] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:13:22] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_image in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/products_images.php on Line: 40
+[07-02-2017 18:13:22] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 312
+[07-02-2017 18:13:22] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:13:22] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_image in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/products_images.php on Line: 45
+[07-02-2017 18:13:22] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 312
+[07-02-2017 18:13:22] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:13:22] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_id in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/products_images.php on Line: 49
+[07-02-2017 18:13:22] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 312
+[07-02-2017 18:13:22] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:13:22] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_date_added in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php on Line: 321
+[07-02-2017 18:13:22] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:13:22] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_id in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php on Line: 325
+[07-02-2017 18:13:22] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:14:34] E_NOTICE	: LoggingManager: Undefined index: all in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/classes/categories.php on Line: 505
+[07-02-2017 18:14:34] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 152
+[07-02-2017 18:14:35] E_NOTICE	: LoggingManager: Undefined index: specials_id in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/classes/categories.php on Line: 1362
+[07-02-2017 18:14:35] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 152
+[07-02-2017 18:14:35] E_NOTICE	: LoggingManager: Undefined offset: 0 in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/classes/categories.php on Line: 625
+[07-02-2017 18:14:35] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 152
+[07-02-2017 18:14:35] E_NOTICE	: LoggingManager: Undefined offset: 0 in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/classes/categories.php on Line: 676
+[07-02-2017 18:14:35] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 152
+[07-02-2017 18:14:35] E_NOTICE	: LoggingManager: Undefined index: products_quantity_staffel_1 in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/classes/categories.php on Line: 677
+[07-02-2017 18:14:35] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 152
+[07-02-2017 18:14:35] E_NOTICE	: LoggingManager: Undefined index: products_price_staffel_1 in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/classes/categories.php on Line: 678
+[07-02-2017 18:14:35] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 152
+[07-02-2017 18:14:35] E_NOTICE	: LoggingManager: Undefined index: products_quantity_staffel_2 in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/classes/categories.php on Line: 677
+[07-02-2017 18:14:35] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 152
+[07-02-2017 18:14:35] E_NOTICE	: LoggingManager: Undefined index: products_price_staffel_2 in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/classes/categories.php on Line: 678
+[07-02-2017 18:14:35] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 152
+[07-02-2017 18:14:35] E_NOTICE	: LoggingManager: Undefined index: products_quantity_staffel_3 in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/classes/categories.php on Line: 677
+[07-02-2017 18:14:35] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 152
+[07-02-2017 18:14:35] E_NOTICE	: LoggingManager: Undefined index: products_price_staffel_3 in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/classes/categories.php on Line: 678
+[07-02-2017 18:14:35] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 152
+[07-02-2017 18:14:35] E_NOTICE	: LoggingManager: Undefined index: products_quantity_staffel_4 in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/classes/categories.php on Line: 677
+[07-02-2017 18:14:35] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 152
+[07-02-2017 18:14:35] E_NOTICE	: LoggingManager: Undefined index: products_price_staffel_4 in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/classes/categories.php on Line: 678
+[07-02-2017 18:14:35] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 152
+[07-02-2017 18:14:40] E_NOTICE	: LoggingManager: Undefined variable: sInfo in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/categories_specials.php on Line: 59
+[07-02-2017 18:14:40] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/group_prices.php called at Line 72
+[07-02-2017 18:14:40] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 206
+[07-02-2017 18:14:40] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:14:40] E_NOTICE	: LoggingManager: Trying to get property of non-object in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/categories_specials.php on Line: 59
+[07-02-2017 18:14:40] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/group_prices.php called at Line 72
+[07-02-2017 18:14:40] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 206
+[07-02-2017 18:14:40] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:14:40] E_NOTICE	: LoggingManager: Undefined variable: sInfo in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/categories_specials.php on Line: 60
+[07-02-2017 18:14:40] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/group_prices.php called at Line 72
+[07-02-2017 18:14:40] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 206
+[07-02-2017 18:14:40] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:14:40] E_NOTICE	: LoggingManager: Trying to get property of non-object in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/categories_specials.php on Line: 60
+[07-02-2017 18:14:40] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/group_prices.php called at Line 72
+[07-02-2017 18:14:40] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 206
+[07-02-2017 18:14:40] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:14:40] E_NOTICE	: LoggingManager: Undefined variable: sInfo in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/categories_specials.php on Line: 100
+[07-02-2017 18:14:40] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/group_prices.php called at Line 72
+[07-02-2017 18:14:40] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 206
+[07-02-2017 18:14:40] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:14:40] E_NOTICE	: LoggingManager: Trying to get property of non-object in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/categories_specials.php on Line: 100
+[07-02-2017 18:14:40] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/group_prices.php called at Line 72
+[07-02-2017 18:14:40] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 206
+[07-02-2017 18:14:40] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:14:40] E_NOTICE	: LoggingManager: Undefined variable: sInfo in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/categories_specials.php on Line: 125
+[07-02-2017 18:14:40] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/group_prices.php called at Line 72
+[07-02-2017 18:14:40] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 206
+[07-02-2017 18:14:40] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:14:40] E_NOTICE	: LoggingManager: Trying to get property of non-object in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/categories_specials.php on Line: 125
+[07-02-2017 18:14:40] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/group_prices.php called at Line 72
+[07-02-2017 18:14:40] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 206
+[07-02-2017 18:14:40] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:14:40] E_NOTICE	: LoggingManager: Constant HEADING_TITLE already defined in File: /Users/danielsiekiera/Websites/modified-bs4/lang/german/admin/content_manager.php on Line: 16
+[07-02-2017 18:14:40] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_products_content.php called at Line 20
+[07-02-2017 18:14:40] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 293
+[07-02-2017 18:14:40] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:14:40] E_NOTICE	: LoggingManager: Constant TEXT_DELETE already defined in File: /Users/danielsiekiera/Websites/modified-bs4/lang/german/admin/content_manager.php on Line: 36
+[07-02-2017 18:14:40] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_products_content.php called at Line 20
+[07-02-2017 18:14:40] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 293
+[07-02-2017 18:14:40] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:14:40] E_NOTICE	: LoggingManager: Constant TEXT_SELECT already defined in File: /Users/danielsiekiera/Websites/modified-bs4/lang/german/admin/content_manager.php on Line: 49
+[07-02-2017 18:14:40] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_products_content.php called at Line 20
+[07-02-2017 18:14:40] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 293
+[07-02-2017 18:14:40] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:14:40] E_NOTICE	: LoggingManager: Constant TEXT_NO_FILE already defined in File: /Users/danielsiekiera/Websites/modified-bs4/lang/german/admin/content_manager.php on Line: 56
+[07-02-2017 18:14:40] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_products_content.php called at Line 20
+[07-02-2017 18:14:40] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 293
+[07-02-2017 18:14:40] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:14:40] E_NOTICE	: LoggingManager: Constant TEXT_SORT_ORDER already defined in File: /Users/danielsiekiera/Websites/modified-bs4/lang/german/admin/content_manager.php on Line: 68
+[07-02-2017 18:14:40] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_products_content.php called at Line 20
+[07-02-2017 18:14:40] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 293
+[07-02-2017 18:14:40] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:14:50] E_NOTICE	: LoggingManager: Undefined index: all in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/classes/categories.php on Line: 505
+[07-02-2017 18:14:50] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 141
+[07-02-2017 18:14:50] E_NOTICE	: LoggingManager: Undefined index: tmp_name in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/classes/upload.php on Line: 77
+[07-02-2017 18:14:50] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/functions/general.php called at Line 1924
+[07-02-2017 18:14:50] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/classes/categories.php called at Line 1205
+[07-02-2017 18:14:50] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/classes/categories.php called at Line 580
+[07-02-2017 18:14:50] E_NOTICE	: LoggingManager: Backtrace #3 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 141
+[07-02-2017 18:14:50] E_NOTICE	: LoggingManager: Undefined index: specials_id in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/classes/categories.php on Line: 1362
+[07-02-2017 18:14:50] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 141
+[07-02-2017 18:14:50] E_NOTICE	: LoggingManager: Undefined offset: 0 in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/classes/categories.php on Line: 625
+[07-02-2017 18:14:50] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 141
+[07-02-2017 18:14:50] E_NOTICE	: LoggingManager: Undefined offset: 0 in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/classes/categories.php on Line: 676
+[07-02-2017 18:14:50] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 141
+[07-02-2017 18:14:50] E_NOTICE	: LoggingManager: Undefined index: products_quantity_staffel_1 in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/classes/categories.php on Line: 677
+[07-02-2017 18:14:50] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 141
+[07-02-2017 18:14:50] E_NOTICE	: LoggingManager: Undefined index: products_price_staffel_1 in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/classes/categories.php on Line: 678
+[07-02-2017 18:14:50] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 141
+[07-02-2017 18:14:50] E_NOTICE	: LoggingManager: Undefined index: products_quantity_staffel_2 in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/classes/categories.php on Line: 677
+[07-02-2017 18:14:50] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 141
+[07-02-2017 18:14:50] E_NOTICE	: LoggingManager: Undefined index: products_price_staffel_2 in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/classes/categories.php on Line: 678
+[07-02-2017 18:14:50] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 141
+[07-02-2017 18:14:50] E_NOTICE	: LoggingManager: Undefined index: products_quantity_staffel_3 in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/classes/categories.php on Line: 677
+[07-02-2017 18:14:50] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 141
+[07-02-2017 18:14:50] E_NOTICE	: LoggingManager: Undefined index: products_price_staffel_3 in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/classes/categories.php on Line: 678
+[07-02-2017 18:14:50] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 141
+[07-02-2017 18:14:50] E_NOTICE	: LoggingManager: Undefined index: products_quantity_staffel_4 in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/classes/categories.php on Line: 677
+[07-02-2017 18:14:50] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 141
+[07-02-2017 18:14:50] E_NOTICE	: LoggingManager: Undefined index: products_price_staffel_4 in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/classes/categories.php on Line: 678
+[07-02-2017 18:14:50] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 141
+[07-02-2017 18:14:55] E_NOTICE	: LoggingManager: Undefined index: copy_product_id in File: /Users/danielsiekiera/Websites/modified-bs4/admin/new_attributes.php on Line: 93
+[07-02-2017 18:15:34] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_id in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php on Line: 61
+[07-02-2017 18:15:34] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:15:34] E_NOTICE	: LoggingManager: Undefined index: pID in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php on Line: 95
+[07-02-2017 18:15:34] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:15:34] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_name in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php on Line: 99
+[07-02-2017 18:15:34] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:15:34] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_status in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php on Line: 106
+[07-02-2017 18:15:34] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:15:34] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_startpage_sort in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php on Line: 118
+[07-02-2017 18:15:34] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:15:34] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_sort in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php on Line: 122
+[07-02-2017 18:15:34] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:15:34] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_vpe_value in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php on Line: 131
+[07-02-2017 18:15:34] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:15:34] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_vpe in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php on Line: 135
+[07-02-2017 18:15:34] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:15:34] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_last_modified in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php on Line: 148
+[07-02-2017 18:15:34] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:15:34] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_quantity in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php on Line: 152
+[07-02-2017 18:15:34] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:15:34] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_model in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php on Line: 156
+[07-02-2017 18:15:34] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:15:34] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_ean in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php on Line: 160
+[07-02-2017 18:15:34] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:15:34] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$manufacturers_id in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php on Line: 164
+[07-02-2017 18:15:34] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:15:34] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_manufacturers_model in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php on Line: 168
+[07-02-2017 18:15:34] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:15:34] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_weight in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php on Line: 172
+[07-02-2017 18:15:34] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:15:34] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_shippingtime in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php on Line: 177
+[07-02-2017 18:15:34] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:15:34] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$product_template in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php on Line: 187
+[07-02-2017 18:15:34] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:15:34] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$options_template in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php on Line: 191
+[07-02-2017 18:15:34] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:15:34] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_tax_class_id in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/group_prices.php on Line: 47
+[07-02-2017 18:15:34] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 206
+[07-02-2017 18:15:34] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:15:34] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_price in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/group_prices.php on Line: 59
+[07-02-2017 18:15:34] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 206
+[07-02-2017 18:15:34] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:15:34] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_price in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/categories_specials.php on Line: 26
+[07-02-2017 18:15:34] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/group_prices.php called at Line 72
+[07-02-2017 18:15:34] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 206
+[07-02-2017 18:15:34] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:15:34] E_NOTICE	: LoggingManager: Undefined variable: sInfo in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/categories_specials.php on Line: 59
+[07-02-2017 18:15:34] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/group_prices.php called at Line 72
+[07-02-2017 18:15:34] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 206
+[07-02-2017 18:15:34] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:15:34] E_NOTICE	: LoggingManager: Trying to get property of non-object in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/categories_specials.php on Line: 59
+[07-02-2017 18:15:34] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/group_prices.php called at Line 72
+[07-02-2017 18:15:34] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 206
+[07-02-2017 18:15:34] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:15:34] E_NOTICE	: LoggingManager: Undefined variable: sInfo in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/categories_specials.php on Line: 60
+[07-02-2017 18:15:34] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/group_prices.php called at Line 72
+[07-02-2017 18:15:34] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 206
+[07-02-2017 18:15:34] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:15:34] E_NOTICE	: LoggingManager: Trying to get property of non-object in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/categories_specials.php on Line: 60
+[07-02-2017 18:15:34] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/group_prices.php called at Line 72
+[07-02-2017 18:15:34] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 206
+[07-02-2017 18:15:34] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:15:34] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_tax_class_id in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/categories_specials.php on Line: 90
+[07-02-2017 18:15:34] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/group_prices.php called at Line 72
+[07-02-2017 18:15:34] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 206
+[07-02-2017 18:15:34] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:15:34] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_price in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/categories_specials.php on Line: 91
+[07-02-2017 18:15:34] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/group_prices.php called at Line 72
+[07-02-2017 18:15:34] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 206
+[07-02-2017 18:15:34] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:15:34] E_NOTICE	: LoggingManager: Undefined variable: sInfo in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/categories_specials.php on Line: 100
+[07-02-2017 18:15:34] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/group_prices.php called at Line 72
+[07-02-2017 18:15:34] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 206
+[07-02-2017 18:15:34] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:15:34] E_NOTICE	: LoggingManager: Trying to get property of non-object in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/categories_specials.php on Line: 100
+[07-02-2017 18:15:34] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/group_prices.php called at Line 72
+[07-02-2017 18:15:34] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 206
+[07-02-2017 18:15:34] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:15:34] E_NOTICE	: LoggingManager: Undefined variable: sInfo in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/categories_specials.php on Line: 125
+[07-02-2017 18:15:34] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/group_prices.php called at Line 72
+[07-02-2017 18:15:34] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 206
+[07-02-2017 18:15:34] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:15:34] E_NOTICE	: LoggingManager: Trying to get property of non-object in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/categories_specials.php on Line: 125
+[07-02-2017 18:15:34] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/group_prices.php called at Line 72
+[07-02-2017 18:15:34] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 206
+[07-02-2017 18:15:34] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:15:34] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_id in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/group_prices.php on Line: 83
+[07-02-2017 18:15:34] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 206
+[07-02-2017 18:15:34] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:15:34] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_discount_allowed in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/group_prices.php on Line: 176
+[07-02-2017 18:15:34] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 206
+[07-02-2017 18:15:34] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:15:34] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_tax_class_id in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/group_prices.php on Line: 180
+[07-02-2017 18:15:34] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 206
+[07-02-2017 18:15:34] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:15:34] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_id in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php on Line: 257
+[07-02-2017 18:15:34] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:15:34] E_NOTICE	: LoggingManager: Constant HEADING_TITLE already defined in File: /Users/danielsiekiera/Websites/modified-bs4/lang/german/admin/content_manager.php on Line: 16
+[07-02-2017 18:15:34] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_products_content.php called at Line 20
+[07-02-2017 18:15:34] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 293
+[07-02-2017 18:15:34] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:15:34] E_NOTICE	: LoggingManager: Constant TEXT_DELETE already defined in File: /Users/danielsiekiera/Websites/modified-bs4/lang/german/admin/content_manager.php on Line: 36
+[07-02-2017 18:15:34] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_products_content.php called at Line 20
+[07-02-2017 18:15:34] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 293
+[07-02-2017 18:15:34] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:15:34] E_NOTICE	: LoggingManager: Constant TEXT_SELECT already defined in File: /Users/danielsiekiera/Websites/modified-bs4/lang/german/admin/content_manager.php on Line: 49
+[07-02-2017 18:15:34] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_products_content.php called at Line 20
+[07-02-2017 18:15:34] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 293
+[07-02-2017 18:15:34] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:15:34] E_NOTICE	: LoggingManager: Constant TEXT_NO_FILE already defined in File: /Users/danielsiekiera/Websites/modified-bs4/lang/german/admin/content_manager.php on Line: 56
+[07-02-2017 18:15:34] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_products_content.php called at Line 20
+[07-02-2017 18:15:34] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 293
+[07-02-2017 18:15:34] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:15:34] E_NOTICE	: LoggingManager: Constant TEXT_SORT_ORDER already defined in File: /Users/danielsiekiera/Websites/modified-bs4/lang/german/admin/content_manager.php on Line: 68
+[07-02-2017 18:15:34] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_products_content.php called at Line 20
+[07-02-2017 18:15:34] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 293
+[07-02-2017 18:15:34] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:15:34] E_NOTICE	: LoggingManager: Undefined index: pID in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_products_content.php on Line: 33
+[07-02-2017 18:15:34] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 293
+[07-02-2017 18:15:34] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:15:34] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_image in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/products_images.php on Line: 31
+[07-02-2017 18:15:34] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 312
+[07-02-2017 18:15:34] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:15:34] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_image in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/products_images.php on Line: 32
+[07-02-2017 18:15:34] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 312
+[07-02-2017 18:15:34] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:15:34] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_image in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/products_images.php on Line: 40
+[07-02-2017 18:15:34] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 312
+[07-02-2017 18:15:34] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:15:34] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_image in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/products_images.php on Line: 45
+[07-02-2017 18:15:34] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 312
+[07-02-2017 18:15:34] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:15:34] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_id in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/products_images.php on Line: 49
+[07-02-2017 18:15:34] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 312
+[07-02-2017 18:15:34] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:15:34] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_date_added in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php on Line: 321
+[07-02-2017 18:15:34] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:15:34] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_id in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php on Line: 325
+[07-02-2017 18:15:34] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:16:32] E_NOTICE	: LoggingManager: Undefined index: all in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/classes/categories.php on Line: 505
+[07-02-2017 18:16:32] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 152
+[07-02-2017 18:16:34] E_NOTICE	: LoggingManager: Undefined index: tmp_name in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/classes/upload.php on Line: 77
+[07-02-2017 18:16:34] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/functions/general.php called at Line 1924
+[07-02-2017 18:16:34] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/classes/categories.php called at Line 1258
+[07-02-2017 18:16:34] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/classes/categories.php called at Line 589
+[07-02-2017 18:16:34] E_NOTICE	: LoggingManager: Backtrace #3 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 152
+[07-02-2017 18:16:34] E_NOTICE	: LoggingManager: Undefined index: specials_id in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/classes/categories.php on Line: 1362
+[07-02-2017 18:16:34] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 152
+[07-02-2017 18:16:34] E_NOTICE	: LoggingManager: Undefined offset: 0 in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/classes/categories.php on Line: 625
+[07-02-2017 18:16:34] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 152
+[07-02-2017 18:16:34] E_NOTICE	: LoggingManager: Undefined offset: 0 in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/classes/categories.php on Line: 676
+[07-02-2017 18:16:34] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 152
+[07-02-2017 18:16:34] E_NOTICE	: LoggingManager: Undefined index: products_quantity_staffel_1 in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/classes/categories.php on Line: 677
+[07-02-2017 18:16:34] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 152
+[07-02-2017 18:16:34] E_NOTICE	: LoggingManager: Undefined index: products_price_staffel_1 in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/classes/categories.php on Line: 678
+[07-02-2017 18:16:34] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 152
+[07-02-2017 18:16:34] E_NOTICE	: LoggingManager: Undefined index: products_quantity_staffel_2 in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/classes/categories.php on Line: 677
+[07-02-2017 18:16:34] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 152
+[07-02-2017 18:16:34] E_NOTICE	: LoggingManager: Undefined index: products_price_staffel_2 in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/classes/categories.php on Line: 678
+[07-02-2017 18:16:34] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 152
+[07-02-2017 18:16:34] E_NOTICE	: LoggingManager: Undefined index: products_quantity_staffel_3 in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/classes/categories.php on Line: 677
+[07-02-2017 18:16:34] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 152
+[07-02-2017 18:16:34] E_NOTICE	: LoggingManager: Undefined index: products_price_staffel_3 in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/classes/categories.php on Line: 678
+[07-02-2017 18:16:34] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 152
+[07-02-2017 18:16:34] E_NOTICE	: LoggingManager: Undefined index: products_quantity_staffel_4 in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/classes/categories.php on Line: 677
+[07-02-2017 18:16:34] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 152
+[07-02-2017 18:16:34] E_NOTICE	: LoggingManager: Undefined index: products_price_staffel_4 in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/classes/categories.php on Line: 678
+[07-02-2017 18:16:34] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 152
+[07-02-2017 18:16:40] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_id in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php on Line: 61
+[07-02-2017 18:16:40] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:16:40] E_NOTICE	: LoggingManager: Undefined index: pID in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php on Line: 95
+[07-02-2017 18:16:40] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:16:40] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_name in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php on Line: 99
+[07-02-2017 18:16:40] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:16:40] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_status in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php on Line: 106
+[07-02-2017 18:16:40] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:16:40] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_startpage_sort in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php on Line: 118
+[07-02-2017 18:16:40] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:16:40] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_sort in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php on Line: 122
+[07-02-2017 18:16:40] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:16:40] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_vpe_value in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php on Line: 131
+[07-02-2017 18:16:40] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:16:40] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_vpe in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php on Line: 135
+[07-02-2017 18:16:40] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:16:40] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_last_modified in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php on Line: 148
+[07-02-2017 18:16:40] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:16:40] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_quantity in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php on Line: 152
+[07-02-2017 18:16:40] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:16:40] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_model in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php on Line: 156
+[07-02-2017 18:16:40] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:16:40] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_ean in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php on Line: 160
+[07-02-2017 18:16:40] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:16:40] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$manufacturers_id in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php on Line: 164
+[07-02-2017 18:16:40] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:16:40] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_manufacturers_model in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php on Line: 168
+[07-02-2017 18:16:40] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:16:40] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_weight in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php on Line: 172
+[07-02-2017 18:16:40] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:16:40] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_shippingtime in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php on Line: 177
+[07-02-2017 18:16:40] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:16:40] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$product_template in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php on Line: 187
+[07-02-2017 18:16:40] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:16:40] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$options_template in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php on Line: 191
+[07-02-2017 18:16:40] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:16:40] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_tax_class_id in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/group_prices.php on Line: 47
+[07-02-2017 18:16:40] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 206
+[07-02-2017 18:16:40] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:16:40] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_price in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/group_prices.php on Line: 59
+[07-02-2017 18:16:40] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 206
+[07-02-2017 18:16:40] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:16:40] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_price in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/categories_specials.php on Line: 26
+[07-02-2017 18:16:40] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/group_prices.php called at Line 72
+[07-02-2017 18:16:40] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 206
+[07-02-2017 18:16:40] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:16:40] E_NOTICE	: LoggingManager: Undefined variable: sInfo in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/categories_specials.php on Line: 59
+[07-02-2017 18:16:40] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/group_prices.php called at Line 72
+[07-02-2017 18:16:40] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 206
+[07-02-2017 18:16:40] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:16:40] E_NOTICE	: LoggingManager: Trying to get property of non-object in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/categories_specials.php on Line: 59
+[07-02-2017 18:16:40] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/group_prices.php called at Line 72
+[07-02-2017 18:16:40] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 206
+[07-02-2017 18:16:40] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:16:40] E_NOTICE	: LoggingManager: Undefined variable: sInfo in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/categories_specials.php on Line: 60
+[07-02-2017 18:16:40] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/group_prices.php called at Line 72
+[07-02-2017 18:16:40] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 206
+[07-02-2017 18:16:40] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:16:40] E_NOTICE	: LoggingManager: Trying to get property of non-object in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/categories_specials.php on Line: 60
+[07-02-2017 18:16:40] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/group_prices.php called at Line 72
+[07-02-2017 18:16:40] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 206
+[07-02-2017 18:16:40] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:16:40] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_tax_class_id in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/categories_specials.php on Line: 90
+[07-02-2017 18:16:40] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/group_prices.php called at Line 72
+[07-02-2017 18:16:40] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 206
+[07-02-2017 18:16:40] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:16:40] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_price in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/categories_specials.php on Line: 91
+[07-02-2017 18:16:40] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/group_prices.php called at Line 72
+[07-02-2017 18:16:40] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 206
+[07-02-2017 18:16:40] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:16:40] E_NOTICE	: LoggingManager: Undefined variable: sInfo in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/categories_specials.php on Line: 100
+[07-02-2017 18:16:40] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/group_prices.php called at Line 72
+[07-02-2017 18:16:40] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 206
+[07-02-2017 18:16:40] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:16:40] E_NOTICE	: LoggingManager: Trying to get property of non-object in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/categories_specials.php on Line: 100
+[07-02-2017 18:16:40] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/group_prices.php called at Line 72
+[07-02-2017 18:16:40] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 206
+[07-02-2017 18:16:40] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:16:40] E_NOTICE	: LoggingManager: Undefined variable: sInfo in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/categories_specials.php on Line: 125
+[07-02-2017 18:16:40] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/group_prices.php called at Line 72
+[07-02-2017 18:16:40] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 206
+[07-02-2017 18:16:40] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:16:40] E_NOTICE	: LoggingManager: Trying to get property of non-object in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/categories_specials.php on Line: 125
+[07-02-2017 18:16:40] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/group_prices.php called at Line 72
+[07-02-2017 18:16:40] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 206
+[07-02-2017 18:16:40] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:16:40] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_id in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/group_prices.php on Line: 83
+[07-02-2017 18:16:40] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 206
+[07-02-2017 18:16:40] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:16:40] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_discount_allowed in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/group_prices.php on Line: 176
+[07-02-2017 18:16:40] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 206
+[07-02-2017 18:16:40] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:16:40] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_tax_class_id in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/group_prices.php on Line: 180
+[07-02-2017 18:16:40] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 206
+[07-02-2017 18:16:40] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:16:40] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_id in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php on Line: 257
+[07-02-2017 18:16:40] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:16:40] E_NOTICE	: LoggingManager: Constant HEADING_TITLE already defined in File: /Users/danielsiekiera/Websites/modified-bs4/lang/german/admin/content_manager.php on Line: 16
+[07-02-2017 18:16:40] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_products_content.php called at Line 20
+[07-02-2017 18:16:40] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 293
+[07-02-2017 18:16:40] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:16:40] E_NOTICE	: LoggingManager: Constant TEXT_DELETE already defined in File: /Users/danielsiekiera/Websites/modified-bs4/lang/german/admin/content_manager.php on Line: 36
+[07-02-2017 18:16:40] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_products_content.php called at Line 20
+[07-02-2017 18:16:40] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 293
+[07-02-2017 18:16:40] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:16:40] E_NOTICE	: LoggingManager: Constant TEXT_SELECT already defined in File: /Users/danielsiekiera/Websites/modified-bs4/lang/german/admin/content_manager.php on Line: 49
+[07-02-2017 18:16:40] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_products_content.php called at Line 20
+[07-02-2017 18:16:40] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 293
+[07-02-2017 18:16:40] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:16:40] E_NOTICE	: LoggingManager: Constant TEXT_NO_FILE already defined in File: /Users/danielsiekiera/Websites/modified-bs4/lang/german/admin/content_manager.php on Line: 56
+[07-02-2017 18:16:40] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_products_content.php called at Line 20
+[07-02-2017 18:16:40] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 293
+[07-02-2017 18:16:40] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:16:40] E_NOTICE	: LoggingManager: Constant TEXT_SORT_ORDER already defined in File: /Users/danielsiekiera/Websites/modified-bs4/lang/german/admin/content_manager.php on Line: 68
+[07-02-2017 18:16:40] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_products_content.php called at Line 20
+[07-02-2017 18:16:40] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 293
+[07-02-2017 18:16:40] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:16:40] E_NOTICE	: LoggingManager: Undefined index: pID in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_products_content.php on Line: 33
+[07-02-2017 18:16:40] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 293
+[07-02-2017 18:16:40] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:16:40] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_image in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/products_images.php on Line: 31
+[07-02-2017 18:16:40] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 312
+[07-02-2017 18:16:40] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:16:40] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_image in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/products_images.php on Line: 32
+[07-02-2017 18:16:40] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 312
+[07-02-2017 18:16:40] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:16:40] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_image in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/products_images.php on Line: 40
+[07-02-2017 18:16:40] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 312
+[07-02-2017 18:16:40] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:16:40] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_image in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/products_images.php on Line: 45
+[07-02-2017 18:16:40] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 312
+[07-02-2017 18:16:40] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:16:40] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_id in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/products_images.php on Line: 49
+[07-02-2017 18:16:40] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 312
+[07-02-2017 18:16:40] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:16:40] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_date_added in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php on Line: 321
+[07-02-2017 18:16:40] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:16:40] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_id in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php on Line: 325
+[07-02-2017 18:16:40] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:18:02] E_NOTICE	: LoggingManager: Undefined index: all in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/classes/categories.php on Line: 505
+[07-02-2017 18:18:02] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 152
+[07-02-2017 18:18:03] E_NOTICE	: LoggingManager: Undefined index: tmp_name in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/classes/upload.php on Line: 77
+[07-02-2017 18:18:03] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/functions/general.php called at Line 1924
+[07-02-2017 18:18:03] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/classes/categories.php called at Line 1258
+[07-02-2017 18:18:03] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/classes/categories.php called at Line 589
+[07-02-2017 18:18:03] E_NOTICE	: LoggingManager: Backtrace #3 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 152
+[07-02-2017 18:18:03] E_NOTICE	: LoggingManager: Undefined index: specials_id in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/classes/categories.php on Line: 1362
+[07-02-2017 18:18:03] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 152
+[07-02-2017 18:18:03] E_NOTICE	: LoggingManager: Undefined offset: 0 in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/classes/categories.php on Line: 625
+[07-02-2017 18:18:03] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 152
+[07-02-2017 18:18:03] E_NOTICE	: LoggingManager: Undefined offset: 0 in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/classes/categories.php on Line: 676
+[07-02-2017 18:18:03] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 152
+[07-02-2017 18:18:03] E_NOTICE	: LoggingManager: Undefined index: products_quantity_staffel_1 in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/classes/categories.php on Line: 677
+[07-02-2017 18:18:03] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 152
+[07-02-2017 18:18:03] E_NOTICE	: LoggingManager: Undefined index: products_price_staffel_1 in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/classes/categories.php on Line: 678
+[07-02-2017 18:18:03] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 152
+[07-02-2017 18:18:03] E_NOTICE	: LoggingManager: Undefined index: products_quantity_staffel_2 in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/classes/categories.php on Line: 677
+[07-02-2017 18:18:03] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 152
+[07-02-2017 18:18:03] E_NOTICE	: LoggingManager: Undefined index: products_price_staffel_2 in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/classes/categories.php on Line: 678
+[07-02-2017 18:18:03] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 152
+[07-02-2017 18:18:03] E_NOTICE	: LoggingManager: Undefined index: products_quantity_staffel_3 in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/classes/categories.php on Line: 677
+[07-02-2017 18:18:03] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 152
+[07-02-2017 18:18:03] E_NOTICE	: LoggingManager: Undefined index: products_price_staffel_3 in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/classes/categories.php on Line: 678
+[07-02-2017 18:18:03] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 152
+[07-02-2017 18:18:03] E_NOTICE	: LoggingManager: Undefined index: products_quantity_staffel_4 in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/classes/categories.php on Line: 677
+[07-02-2017 18:18:03] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 152
+[07-02-2017 18:18:03] E_NOTICE	: LoggingManager: Undefined index: products_price_staffel_4 in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/classes/categories.php on Line: 678
+[07-02-2017 18:18:03] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 152
+[07-02-2017 18:18:12] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_id in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php on Line: 61
+[07-02-2017 18:18:12] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:18:12] E_NOTICE	: LoggingManager: Undefined index: pID in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php on Line: 95
+[07-02-2017 18:18:12] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:18:12] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_name in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php on Line: 99
+[07-02-2017 18:18:12] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:18:12] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_status in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php on Line: 106
+[07-02-2017 18:18:12] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:18:12] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_startpage_sort in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php on Line: 118
+[07-02-2017 18:18:12] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:18:12] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_sort in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php on Line: 122
+[07-02-2017 18:18:12] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:18:12] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_vpe_value in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php on Line: 131
+[07-02-2017 18:18:12] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:18:12] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_vpe in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php on Line: 135
+[07-02-2017 18:18:12] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:18:12] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_last_modified in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php on Line: 148
+[07-02-2017 18:18:12] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:18:12] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_quantity in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php on Line: 152
+[07-02-2017 18:18:12] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:18:12] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_model in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php on Line: 156
+[07-02-2017 18:18:12] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:18:12] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_ean in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php on Line: 160
+[07-02-2017 18:18:12] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:18:12] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$manufacturers_id in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php on Line: 164
+[07-02-2017 18:18:12] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:18:12] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_manufacturers_model in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php on Line: 168
+[07-02-2017 18:18:12] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:18:12] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_weight in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php on Line: 172
+[07-02-2017 18:18:12] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:18:12] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_shippingtime in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php on Line: 177
+[07-02-2017 18:18:12] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:18:12] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$product_template in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php on Line: 187
+[07-02-2017 18:18:12] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:18:12] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$options_template in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php on Line: 191
+[07-02-2017 18:18:12] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:18:12] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_tax_class_id in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/group_prices.php on Line: 47
+[07-02-2017 18:18:12] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 206
+[07-02-2017 18:18:12] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:18:12] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_price in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/group_prices.php on Line: 59
+[07-02-2017 18:18:12] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 206
+[07-02-2017 18:18:12] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:18:12] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_price in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/categories_specials.php on Line: 26
+[07-02-2017 18:18:12] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/group_prices.php called at Line 72
+[07-02-2017 18:18:12] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 206
+[07-02-2017 18:18:12] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:18:12] E_NOTICE	: LoggingManager: Undefined variable: sInfo in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/categories_specials.php on Line: 59
+[07-02-2017 18:18:12] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/group_prices.php called at Line 72
+[07-02-2017 18:18:12] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 206
+[07-02-2017 18:18:12] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:18:12] E_NOTICE	: LoggingManager: Trying to get property of non-object in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/categories_specials.php on Line: 59
+[07-02-2017 18:18:12] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/group_prices.php called at Line 72
+[07-02-2017 18:18:12] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 206
+[07-02-2017 18:18:12] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:18:12] E_NOTICE	: LoggingManager: Undefined variable: sInfo in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/categories_specials.php on Line: 60
+[07-02-2017 18:18:12] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/group_prices.php called at Line 72
+[07-02-2017 18:18:12] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 206
+[07-02-2017 18:18:12] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:18:12] E_NOTICE	: LoggingManager: Trying to get property of non-object in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/categories_specials.php on Line: 60
+[07-02-2017 18:18:12] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/group_prices.php called at Line 72
+[07-02-2017 18:18:12] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 206
+[07-02-2017 18:18:12] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:18:12] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_tax_class_id in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/categories_specials.php on Line: 90
+[07-02-2017 18:18:12] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/group_prices.php called at Line 72
+[07-02-2017 18:18:12] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 206
+[07-02-2017 18:18:12] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:18:12] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_price in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/categories_specials.php on Line: 91
+[07-02-2017 18:18:12] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/group_prices.php called at Line 72
+[07-02-2017 18:18:12] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 206
+[07-02-2017 18:18:12] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:18:12] E_NOTICE	: LoggingManager: Undefined variable: sInfo in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/categories_specials.php on Line: 100
+[07-02-2017 18:18:12] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/group_prices.php called at Line 72
+[07-02-2017 18:18:12] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 206
+[07-02-2017 18:18:12] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:18:12] E_NOTICE	: LoggingManager: Trying to get property of non-object in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/categories_specials.php on Line: 100
+[07-02-2017 18:18:12] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/group_prices.php called at Line 72
+[07-02-2017 18:18:12] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 206
+[07-02-2017 18:18:12] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:18:12] E_NOTICE	: LoggingManager: Undefined variable: sInfo in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/categories_specials.php on Line: 125
+[07-02-2017 18:18:12] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/group_prices.php called at Line 72
+[07-02-2017 18:18:12] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 206
+[07-02-2017 18:18:12] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:18:12] E_NOTICE	: LoggingManager: Trying to get property of non-object in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/categories_specials.php on Line: 125
+[07-02-2017 18:18:12] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/group_prices.php called at Line 72
+[07-02-2017 18:18:12] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 206
+[07-02-2017 18:18:12] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:18:12] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_id in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/group_prices.php on Line: 83
+[07-02-2017 18:18:12] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 206
+[07-02-2017 18:18:12] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:18:12] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_discount_allowed in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/group_prices.php on Line: 176
+[07-02-2017 18:18:12] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 206
+[07-02-2017 18:18:12] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:18:12] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_tax_class_id in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/group_prices.php on Line: 180
+[07-02-2017 18:18:12] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 206
+[07-02-2017 18:18:12] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:18:12] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_id in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php on Line: 257
+[07-02-2017 18:18:12] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:18:12] E_NOTICE	: LoggingManager: Constant HEADING_TITLE already defined in File: /Users/danielsiekiera/Websites/modified-bs4/lang/german/admin/content_manager.php on Line: 16
+[07-02-2017 18:18:12] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_products_content.php called at Line 20
+[07-02-2017 18:18:12] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 293
+[07-02-2017 18:18:12] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:18:12] E_NOTICE	: LoggingManager: Constant TEXT_DELETE already defined in File: /Users/danielsiekiera/Websites/modified-bs4/lang/german/admin/content_manager.php on Line: 36
+[07-02-2017 18:18:12] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_products_content.php called at Line 20
+[07-02-2017 18:18:12] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 293
+[07-02-2017 18:18:12] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:18:12] E_NOTICE	: LoggingManager: Constant TEXT_SELECT already defined in File: /Users/danielsiekiera/Websites/modified-bs4/lang/german/admin/content_manager.php on Line: 49
+[07-02-2017 18:18:12] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_products_content.php called at Line 20
+[07-02-2017 18:18:12] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 293
+[07-02-2017 18:18:12] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:18:12] E_NOTICE	: LoggingManager: Constant TEXT_NO_FILE already defined in File: /Users/danielsiekiera/Websites/modified-bs4/lang/german/admin/content_manager.php on Line: 56
+[07-02-2017 18:18:12] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_products_content.php called at Line 20
+[07-02-2017 18:18:12] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 293
+[07-02-2017 18:18:12] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:18:12] E_NOTICE	: LoggingManager: Constant TEXT_SORT_ORDER already defined in File: /Users/danielsiekiera/Websites/modified-bs4/lang/german/admin/content_manager.php on Line: 68
+[07-02-2017 18:18:12] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_products_content.php called at Line 20
+[07-02-2017 18:18:12] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 293
+[07-02-2017 18:18:12] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:18:12] E_NOTICE	: LoggingManager: Undefined index: pID in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_products_content.php on Line: 33
+[07-02-2017 18:18:12] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 293
+[07-02-2017 18:18:12] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:18:12] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_image in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/products_images.php on Line: 31
+[07-02-2017 18:18:12] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 312
+[07-02-2017 18:18:12] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:18:12] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_image in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/products_images.php on Line: 32
+[07-02-2017 18:18:12] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 312
+[07-02-2017 18:18:12] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:18:12] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_image in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/products_images.php on Line: 40
+[07-02-2017 18:18:12] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 312
+[07-02-2017 18:18:12] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:18:12] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_image in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/products_images.php on Line: 45
+[07-02-2017 18:18:12] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 312
+[07-02-2017 18:18:12] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:18:12] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_id in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/products_images.php on Line: 49
+[07-02-2017 18:18:12] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php called at Line 312
+[07-02-2017 18:18:12] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:18:12] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_date_added in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php on Line: 321
+[07-02-2017 18:18:12] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:18:12] E_NOTICE	: LoggingManager: Undefined property: objectInfo::$products_id in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/modules/new_product.php on Line: 325
+[07-02-2017 18:18:12] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 420
+[07-02-2017 18:19:14] E_NOTICE	: LoggingManager: Undefined index: all in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/classes/categories.php on Line: 505
+[07-02-2017 18:19:14] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 152
+[07-02-2017 18:19:14] E_NOTICE	: LoggingManager: Undefined index: tmp_name in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/classes/upload.php on Line: 77
+[07-02-2017 18:19:14] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/functions/general.php called at Line 1924
+[07-02-2017 18:19:14] E_NOTICE	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/classes/categories.php called at Line 1258
+[07-02-2017 18:19:14] E_NOTICE	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/admin/includes/classes/categories.php called at Line 589
+[07-02-2017 18:19:14] E_NOTICE	: LoggingManager: Backtrace #3 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 152
+[07-02-2017 18:19:14] E_NOTICE	: LoggingManager: Undefined index: specials_id in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/classes/categories.php on Line: 1362
+[07-02-2017 18:19:14] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 152
+[07-02-2017 18:19:14] E_NOTICE	: LoggingManager: Undefined offset: 0 in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/classes/categories.php on Line: 625
+[07-02-2017 18:19:14] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 152
+[07-02-2017 18:19:14] E_NOTICE	: LoggingManager: Undefined offset: 0 in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/classes/categories.php on Line: 676
+[07-02-2017 18:19:14] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 152
+[07-02-2017 18:19:14] E_NOTICE	: LoggingManager: Undefined index: products_quantity_staffel_1 in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/classes/categories.php on Line: 677
+[07-02-2017 18:19:14] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 152
+[07-02-2017 18:19:14] E_NOTICE	: LoggingManager: Undefined index: products_price_staffel_1 in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/classes/categories.php on Line: 678
+[07-02-2017 18:19:14] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 152
+[07-02-2017 18:19:14] E_NOTICE	: LoggingManager: Undefined index: products_quantity_staffel_2 in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/classes/categories.php on Line: 677
+[07-02-2017 18:19:14] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 152
+[07-02-2017 18:19:14] E_NOTICE	: LoggingManager: Undefined index: products_price_staffel_2 in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/classes/categories.php on Line: 678
+[07-02-2017 18:19:14] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 152
+[07-02-2017 18:19:14] E_NOTICE	: LoggingManager: Undefined index: products_quantity_staffel_3 in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/classes/categories.php on Line: 677
+[07-02-2017 18:19:14] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 152
+[07-02-2017 18:19:14] E_NOTICE	: LoggingManager: Undefined index: products_price_staffel_3 in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/classes/categories.php on Line: 678
+[07-02-2017 18:19:14] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 152
+[07-02-2017 18:19:14] E_NOTICE	: LoggingManager: Undefined index: products_quantity_staffel_4 in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/classes/categories.php on Line: 677
+[07-02-2017 18:19:14] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 152
+[07-02-2017 18:19:14] E_NOTICE	: LoggingManager: Undefined index: products_price_staffel_4 in File: /Users/danielsiekiera/Websites/modified-bs4/admin/includes/classes/categories.php on Line: 678
+[07-02-2017 18:19:14] E_NOTICE	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/admin/categories.php called at Line 152

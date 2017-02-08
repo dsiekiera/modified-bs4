@@ -1,1 +1,48 @@
+@import "variables";
+@import "mixins";
  
+.cat_description {
+    @include clearfix;
+
+    img {
+        float: left;
+        margin: 0 1rem 1rem 0;
+    }
+}
+
+.row {
+     .boxview {
+         .card-img-top {
+             text-align: center;
+             padding: 1.25rem;
+         }
+         .card-title {
+             overflow: hidden;
+            display: -webkit-box;
+            -webkit-line-clamp: 3;
+            -webkit-box-orient: vertical; 
+            height: 35px;
+         }
+     }
+}
+
+.filter_bar {
+    background-color: $gray-lighter;
+    padding: 0.5rem;
+    margin-bottom: 0.5rem;
+
+    a {
+        color: $gray-light;
+        font-size: 1.24em;
+
+        &:hover,
+        &.active {
+            color: $link-color;
+        }
+    }
+}
+
+.pagination-bar {
+    font-size: 80%;
+    color: $gray-light;
+}

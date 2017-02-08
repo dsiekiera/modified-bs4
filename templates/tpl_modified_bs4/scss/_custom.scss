@@ -3,6 +3,39 @@
 // Copy variables from `_variables.scss` to this file to override default values
 // without modifying source files.
 
+nav.navbar{
+	position: relative;
+
+	.navbar-toggler {
+		font-size: 1rem;
+	}
+
+	.navbar-toggler-right {
+		right: 0;
+	}
+
+	.navbar-brand {
+		span.languages {
+			position: absolute;
+			right: 0;
+		}
+
+		@media(min-width: 720px){
+			position: relative;		
+		}
+
+		@media(max-width: 720px){
+			span.languages {
+				top: 30px;
+			}
+		}
+	}
+}
+
+#breadcrumb {
+	font-size: 75%;
+}
+
 .navbarContent {
 	background-color: #939393 !important;
 	
@@ -18,12 +51,12 @@
 		}
 	}
 	
-	.toggle_cart {
-		display: none;
-	}
+	
 }
 
-	
+.navbar-brand {
+	margin-right: 0 !important;
+}
 
 // Boxen
 .box1 {

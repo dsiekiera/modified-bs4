@@ -1,0 +1,5 @@
+[07-02-2017 19:40:42] UNDEFINED_ERROR	: LoggingManager: Undefined variable $gray-lighter: line: 18 in File: /Users/danielsiekiera/Websites/modified-bs4/vendor/leafo/scssphp/src/Compiler.php on Line: 3432
+[07-02-2017 19:52:13] UNDEFINED_ERROR	: LoggingManager: Undefined mixin clearfix: line: 4 in File: /Users/danielsiekiera/Websites/modified-bs4/vendor/leafo/scssphp/src/Compiler.php on Line: 3432
+[07-02-2017 19:53:35] UNDEFINED_ERROR	: LoggingManager: ".cat_description" failed to @extend ".clearfix". The selector ".clearfix" was not found.: line: 4 in File: /Users/danielsiekiera/Websites/modified-bs4/vendor/leafo/scssphp/src/Compiler.php on Line: 3432
+[07-02-2017 19:54:15] UNDEFINED_ERROR	: LoggingManager: ".cat_description" failed to @extend ".clearfix". The selector ".clearfix" was not found.: line: 4 in File: /Users/danielsiekiera/Websites/modified-bs4/vendor/leafo/scssphp/src/Compiler.php on Line: 3432
+[07-02-2017 19:55:17] UNDEFINED_ERROR	: LoggingManager: Undefined mixin clearfix: line: 4 in File: /Users/danielsiekiera/Websites/modified-bs4/vendor/leafo/scssphp/src/Compiler.php on Line: 3432

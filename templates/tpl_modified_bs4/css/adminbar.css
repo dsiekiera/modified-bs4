@@ -9,9 +9,13 @@
    Released under the GNU General Public License
    ---------------------------------------------------------------------------------------*/
 
+body {
+		padding-top: 50px;
+}
+
 /* SPECIAL CSS */
 .adminspacer {
-  height:36px;
+  display: none;
 }
 
 /* TOGGLE MENU CSS */

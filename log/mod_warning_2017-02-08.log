@@ -1,0 +1,4 @@
+[08-02-2017 08:24:07] E_WARNING	: LoggingManager: session_start(): Session callback expects true/false return value in File: /Users/danielsiekiera/Websites/modified-bs4/includes/functions/sessions.php on Line: 118
+[08-02-2017 08:24:07] E_WARNING	: LoggingManager: Backtrace #0 - /Users/danielsiekiera/Websites/modified-bs4/includes/modules/set_session_and_cookie_parameters.php called at Line 80
+[08-02-2017 08:24:07] E_WARNING	: LoggingManager: Backtrace #1 - /Users/danielsiekiera/Websites/modified-bs4/includes/application_top.php called at Line 264
+[08-02-2017 08:24:07] E_WARNING	: LoggingManager: Backtrace #2 - /Users/danielsiekiera/Websites/modified-bs4/index.php called at Line 25
